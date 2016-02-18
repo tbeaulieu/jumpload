@@ -1,0 +1,298 @@
+<article class="bsp-container" data-sm-article="">
+
+	
+		<header>
+	
+		<div class="bsp-page-title-wrapper">
+	<h1 class="bsp-page-title title-small">
+		
+		HDHPs stay in favor as Cadillac tax mitigation strategy 
+	</h1>
+</div>
+	
+</header>
+	
+
+	<div class="bsp-row">
+
+		<div class="article-first">
+			
+				
+    
+		<div class="bsp-tags">
+    <div class="bsp-tag-list-title">By</div>
+    <ul class="bsp-tag-list">
+        
+            <li>Melissa A. Winn</li>
+        
+    </ul>
+</div>
+
+	
+		<div class="bsp-tags">
+    <div class="bsp-tag-list-title">Published</div>
+    <ul class="bsp-tag-list">
+        
+            <li>February 17 2016, 1:07am EST</li>
+        
+    </ul>
+</div>
+
+	
+		<div class="bsp-tags">
+    <div class="bsp-tag-list-title">More in</div>
+    <ul class="bsp-tag-list">
+        
+            <li><a class="bsp-tag" href="/tag/healthcare-plans" data-cms-ai="0">Healthcare plans</a></li>
+        
+            <li><a class="bsp-tag" href="/tag/cadillac-tax" data-cms-ai="0">Cadillac tax</a></li>
+        
+            <li><a class="bsp-tag" href="/tag/practice-management" data-cms-ai="0">Practice management</a></li>
+        
+            <li><a class="bsp-tag" href="/tag/insurance" data-cms-ai="0">Insurance</a></li>
+        
+    </ul>
+</div>
+
+	
+
+			
+		</div>
+
+		<div class="article-body">
+			
+				<div class="action-bar action-bar-size--large">
+    
+        <a class="action action-size--large" data-sm-action-print="" data-cms-ai="0">
+    <i class="icon icon-print"></i>
+    <span class="label">Print</span>
+    
+</a>
+
+    
+        <a href="mailto:?subject=HDHPs%20stay%20in%20favor%20as%20Cadillac%20tax%20mitigation%20strategy%20&amp;body=The%20fate%20of%20the%20ACA%E2%80%99s%20excise%20tax%20notwithstanding%2C%20employers%20continue%20to%20look%20at%20an%20array%20of%20options%20to%20rein%20in%20their%20healthcare%20costs.%0A%0Ahttp://www.benefitnews.com/HDHPs-stay-in-favor-as-Cadillac-tax-mitigation-strategy -EBN" class="action action-size--large" data-sm-action-email="" data-cms-ai="0">
+    <i class="icon icon-email"></i>
+    <span class="label">Email</span>
+    
+</a>
+
+    
+        <a href="http://www.sourcemediareprints.com/" target="_blank" class="action action-size--large" data-sm-action-reprint="" data-cms-ai="0">
+    <i class="icon icon-reprint"></i>
+    <span class="label">Reprints</span>
+    
+</a>
+
+    
+        <a class="action action-size--large" data-sm-action-share="" data-cms-ai="0">
+    <i class="icon icon-share"></i>
+    <span class="label">Share</span>
+    
+        <span class="share-links-wrapper">
+
+	<span class="share-links-title">Share on</span>
+
+	<ul class="share-links" data-bsp-share="" data-bsp-share-options="{
+    			&quot;description&quot;:&quot;The fate of the ACA’s excise tax notwithstanding, employers continue to look at an array of options to rein in their healthcare costs.&quot;,
+    			&quot;image&quot;:&quot;https://assets.sourcemedia.com/d8/d0/a342fc9447b28a49b3e0e6841a43/ebn-021716-p4.jpg&quot;,
+    			&quot;title&quot;:&quot;HDHPs stay in favor as Cadillac tax mitigation strategy&quot;,
+    			&quot;url&quot;:&quot;http://www.benefitnews.com/HDHPs-stay-in-favor-as-Cadillac-tax-mitigation-strategy -EBN&quot;,
+    			&quot;redirectUrl&quot;:&quot;http://www.benefitnews.com/HDHPs-stay-in-favor-as-Cadillac-tax-mitigation-strategy -EBN&quot;,
+    			&quot;iconClass&quot;:&quot;icon&quot;,
+    			&quot;serviceProps&quot;:{
+					
+						&quot;linkedin&quot;: {
+							
+							&quot;title&quot;: &quot;&quot;,
+							&quot;caption&quot;: &quot;&quot;,
+							&quot;description&quot;: &quot;&quot;,
+							&quot;linkText&quot; : &quot;<span>linkedin</span>&quot;
+						}
+						,
+					
+						&quot;twitter&quot;: {
+							
+							&quot;title&quot;: &quot;&quot;,
+							&quot;caption&quot;: &quot;HDHPs stay in favor as Cadillac tax mitigation strategy&quot;,
+							&quot;description&quot;: &quot;&quot;,
+							&quot;linkText&quot; : &quot;<span>twitter</span>&quot;
+						}
+						,
+					
+						&quot;facebook&quot;: {
+							&quot;appId&quot;: &quot;1538398496471831&quot;,
+							&quot;title&quot;: &quot;&quot;,
+							&quot;caption&quot;: &quot;&quot;,
+							&quot;description&quot;: &quot;&quot;,
+							&quot;linkText&quot; : &quot;<span>facebook</span>&quot;
+						}
+						,
+					
+						&quot;google&quot;: {
+							
+							&quot;title&quot;: &quot;&quot;,
+							&quot;caption&quot;: &quot;&quot;,
+							&quot;description&quot;: &quot;&quot;,
+							&quot;linkText&quot; : &quot;<span>google</span>&quot;
+						}
+						
+					
+    			},
+                &quot;sharingClass&quot;       : &quot;share-link&quot;,
+                &quot;serviceClassBefore&quot; : &quot;&quot;
+    		}">
+		
+			
+				<li class="linkedin-share">
+    
+</li>
+
+			
+		
+			
+				<li class="twitter-share">
+    
+</li>
+
+			
+		
+			
+				<li class="facebook-share">
+    
+</li>
+
+			
+		
+			
+				<li class="google-share">
+    
+</li>
+
+			
+		
+	</ul>
+</span>
+
+    
+</a>
+
+    
+</div>
+
+			
+				<p>The fate of the so-called Cadillac tax notwithstanding, new strategies are emerging to help employers cut healthcare costs.</p><p>The Affordable Care Act’s excise tax places a 40% levy on high-cost employer-sponsored health plans ($10,200 for individuals, $27,000 for families). Originally set to go into effect in 2018, it recently was pushed back until 2020 and some say may be repealed altogether by Congress. </p>
+
+			
+				
+<div class="mod-enhancement e-full-width">
+	<figure class="image">
+	
+
+	 
+<img src="https://assets.sourcemedia.com/dims4/default/9a4bc3b/2147483647/resize/680x%3E/quality/90/?url=https%3A%2F%2Fassets.sourcemedia.com%2Fd8%2Fd0%2Fa342fc9447b28a49b3e0e6841a43%2Febn-021716-p4.jpg" alt="[Image: Bloomberg]">
+
+    
+
+ 
+
+	
+	<figcaption>
+		<h5>
+</h5>
+ [Image: Bloomberg]
+ 
+
+	</figcaption>
+	
+</figure>
+</div>
+
+			
+				<p>Employers remain concerned about the tax, but with all the uncertainties few have begun to prepare for it. More than half (61%) of the employers surveyed for a 2015 Healthcare Trends Institute study said they had made no changes to their 2016 benefit plans in advance of the tax. Another 24% indicated that although they hadn’t made any changes to 2016 plans, they expect to do so in 2017. Only 10% have actually made concrete plans to to avoid the tax, while just 8% have already adjusted their plans to sidestep the ACA levy.</p><p>Compared with prior years, fewer employers seem concerned with the tax, according to Tiffany Wirth, the executive director of HTI, who says this may be a sign that they now have a better understanding about how the tax would affect their company.</p><p>Still, some employers are making changes. </p><p>“What employers are still looking to do is to try to chip away at the cost problem they have had for many years,” says Don Garlitz, senior vice president of bswift. These include plan design changes, such as providing a high-deductible option coupled with an HSA.</p><p><b>Plan options</b></p><p>Fifty-eight percent of employers with 500 or more employees in 2015 offered HDHPs as a plan option, up from 51% in 2014, according to a 2015 bswift Benefits Study. “It’s a strategy that continues to grow,” Garlitz says. </p><p>Optimizing the network is another strategy he recommends that employers and their advisers should consider. Advisers, he says, should not only work with employers to implement these design changes, but also help them understand the new options provide employees choice. Advisers should help employers and employees clearly understand the pros and cons of each choice."</p><p>This, he says, will help avoid a backlash similar to the one employers experienced in the 90’s, when they switched to the popular at the time HMO model.</p>
+
+			
+				
+<div class="mod-enhancement e-full-width">
+	<blockquote class="bsp-component sm-blockquote">
+	<span class="eyebrow">Quote</span>
+	<div class="content">
+	"What employers are still looking to do is to try to chip away at the cost problem they have had for many years."
+	</div>
+
+
+	
+	
+</blockquote>
+</div>
+
+			
+				<p>Another survey, the 2015 Mercer National Survey of Employer-Sponsored Health Plans, found that 11% of large employers dropped a high-cost plan in 2015 to avoid the excise tax, while 19% made changes to shift some of their plan costs to their employees.</p><p> “Employers even started to think about the configuration about what would be included in the excise tax,” says Sander Domaszewicz, a principal and senior consultant with Mercer. “So, having employee contributions to FSAs added to the tax was of concern to some.”</p><p>Three percent of large employers eliminated their health care FSAs altogehter, the survey found.</p><p><br></p> 
+
+			
+				
+<div class="mod-enhancement e-left-pi sponsored">
+	<div class="feed-item  ">
+	
+	<h4><a href="//www.benefitnews.com/partnerinsights/Limeade/video/what-keeps-hr-professionals-up-at-night" target="" data-cms-ai="0">	
+		<span>Video</span>
+	
+	What keeps HR professionals up at night
+</a></h4>
+	
+
+	
+
+	
+
+	
+
+	
+	<div class="item-body">
+		When leading HR professionals from around the country were asked what keeps them up at night, here's what they said.
+
+	</div>
+	
+
+	
+
+	
+
+	
+		<div class="sponsored-by pi-sponsor">
+	<span>Partner Insights<br>Sponsor Content From: 
+</span>
+	<a href="http://www.limeade.com" target="_blank" data-cms-ai="0">
+<img src="https://assets.sourcemedia.com/dims4/default/e30f08a/2147483647/resize/200x%3E/quality/90/?url=https%3A%2F%2Fassets.sourcemedia.com%2Fe5%2F7a%2F892ecd444ae1b4e3d5c60afa9e92%2Flimeade.png" alt="Limeade">
+
+    
+
+</a>
+</div>
+	
+
+	
+		<div class="item-meta">
+			<div class="component-footer ">
+	
+	<span class="tag"><a href="/tag/employee-benefits" data-cms-ai="0">Employee benefits</a></span>
+	
+
+	
+
+	<span class="byline">
+		
+
+        <span class="timestamp">February 1</span>
+	</span>
+</div>
+		</div>
+	
+
+</div>
+</div>
+
+			
+		</div>
+
+	</div>
+</article>

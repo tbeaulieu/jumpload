@@ -1,0 +1,358 @@
+
+
+<div class="wrapper skin-light-background"  data-content-type="article">
+    
+        <script  type="text/javascript">
+var dimension1 = "Melissa A. Winn";
+
+var dimension3 = "non-registered-user";
+
+var dimension5 = "FreeWithReg";
+
+var dimension6 = "";
+
+var dimension8 = "21";
+
+var dimension9 = "20160217";
+
+var dimension10 = "Healthcare plans, Cadillac tax, Practice management, Insurance";
+
+var dimension14 = "523";
+
+var dimension15 = "Article";
+
+var dimension17 = "Healthcare plans, Cadillac tax, Practice management, Insurance";
+
+var dimension20 = "Scrolled";
+</script>
+
+    
+
+	<div class="bsp-container">
+
+	
+
+	<div class="bsp-row sm-flexbox">
+
+		<div class="bsp-column-flex sm-column-flex">
+			
+				<div
+     data-reading-list-leaderboard-ad
+    class="sm-advertisement"
+    data-sm-google-ad
+    data-sm-google-ad-options='{
+        "id":"gpt-ad-collapsed_header3",
+        "position":"collapsed_header3",
+        "sizes":"[[728,90],[970,90],[970,250],[970,91]]",
+        "deferRendering":false
+        
+    }'>
+</div>
+
+			
+				<article class="bsp-container" data-sm-article>
+
+	
+		<header>
+	
+		<div class="bsp-page-title-wrapper">
+	<h1 class="bsp-page-title title-small">
+		
+		HDHPs stay in favor as Cadillac tax mitigation strategy DonkeyTest
+	</h1>
+</div>
+	
+</header>
+	
+
+	<div class="bsp-row">
+
+		<div class="article-first">
+			
+				
+    
+		<div class="bsp-tags">
+    <div class="bsp-tag-list-title">By</div>
+    <ul class="bsp-tag-list">
+        
+            <li>Melissa A. Winn</li>
+        
+    </ul>
+</div>
+
+	
+		<div class="bsp-tags">
+    <div class="bsp-tag-list-title">Published</div>
+    <ul class="bsp-tag-list">
+        
+            <li>February 17 2016, 1:07am EST</li>
+        
+    </ul>
+</div>
+
+	
+		<div class="bsp-tags">
+    <div class="bsp-tag-list-title">More in</div>
+    <ul class="bsp-tag-list">
+        
+            <li><a class="bsp-tag" href="/tag/healthcare-plans" data-cms-ai="0">Healthcare plans</a></li>
+        
+            <li><a class="bsp-tag" href="/tag/cadillac-tax" data-cms-ai="0">Cadillac tax</a></li>
+        
+            <li><a class="bsp-tag" href="/tag/practice-management" data-cms-ai="0">Practice management</a></li>
+        
+            <li><a class="bsp-tag" href="/tag/insurance" data-cms-ai="0">Insurance</a></li>
+        
+    </ul>
+</div>
+
+	
+
+			
+		</div>
+
+		<div class="article-body">
+			
+				<div class="action-bar action-bar-size--large">
+    
+        <a
+    
+     
+    class="action action-size--large"
+    data-sm-action-print data-cms-ai="0">
+    <i class="icon icon-print"></i>
+    <span class="label">Print</span>
+    
+</a>
+
+    
+        <a
+    href="mailto:?subject=HDHPs%20stay%20in%20favor%20as%20Cadillac%20tax%20mitigation%20strategy%20&amp;body=The%20fate%20of%20the%20ACA%E2%80%99s%20excise%20tax%20notwithstanding%2C%20employers%20continue%20to%20look%20at%20an%20array%20of%20options%20to%20rein%20in%20their%20healthcare%20costs.%0A%0Ahttp://www.benefitnews.com/HDHPs-stay-in-favor-as-Cadillac-tax-mitigation-strategy -EBN"
+     
+    class="action action-size--large"
+    data-sm-action-email data-cms-ai="0">
+    <i class="icon icon-email"></i>
+    <span class="label">Email</span>
+    
+</a>
+
+    
+        <a
+    href="http://www.sourcemediareprints.com/"
+    target="_blank" 
+    class="action action-size--large"
+    data-sm-action-reprint data-cms-ai="0">
+    <i class="icon icon-reprint"></i>
+    <span class="label">Reprints</span>
+    
+</a>
+
+    
+        <a
+    
+     
+    class="action action-size--large"
+    data-sm-action-share data-cms-ai="0">
+    <i class="icon icon-share"></i>
+    <span class="label">Share</span>
+    
+        <span class="share-links-wrapper">
+
+	<span class="share-links-title">Share on</span>
+
+	<ul class="share-links" data-bsp-share
+    	data-bsp-share-options='{
+    			"description":"The fate of the ACA’s excise tax notwithstanding, employers continue to look at an array of options to rein in their healthcare costs.",
+    			"image":"https://assets.sourcemedia.com/d8/d0/a342fc9447b28a49b3e0e6841a43/ebn-021716-p4.jpg",
+    			"title":"HDHPs stay in favor as Cadillac tax mitigation strategy",
+    			"url":"http://www.benefitnews.com/HDHPs-stay-in-favor-as-Cadillac-tax-mitigation-strategy -EBN",
+    			"redirectUrl":"http://www.benefitnews.com/HDHPs-stay-in-favor-as-Cadillac-tax-mitigation-strategy -EBN",
+    			"iconClass":"icon",
+    			"serviceProps":{
+					
+						"linkedin": {
+							
+							"title": "",
+							"caption": "",
+							"description": "",
+							"linkText" : "<span>linkedin</span>"
+						}
+						,
+					
+						"twitter": {
+							
+							"title": "",
+							"caption": "HDHPs stay in favor as Cadillac tax mitigation strategy",
+							"description": "",
+							"linkText" : "<span>twitter</span>"
+						}
+						,
+					
+						"facebook": {
+							"appId": "1538398496471831",
+							"title": "",
+							"caption": "",
+							"description": "",
+							"linkText" : "<span>facebook</span>"
+						}
+						,
+					
+						"google": {
+							
+							"title": "",
+							"caption": "",
+							"description": "",
+							"linkText" : "<span>google</span>"
+						}
+						
+					
+    			},
+                "sharingClass"       : "share-link",
+                "serviceClassBefore" : ""
+    		}'>
+		
+			
+				<li class="linkedin-share">
+    
+</li>
+
+			
+		
+			
+				<li class="twitter-share">
+    
+</li>
+
+			
+		
+			
+				<li class="facebook-share">
+    
+</li>
+
+			
+		
+			
+				<li class="google-share">
+    
+</li>
+
+			
+		
+	</ul>
+</span>
+
+    
+</a>
+
+    
+</div>
+
+			
+				<p>The fate of the so-called Cadillac tax notwithstanding, new strategies are emerging to help employers cut healthcare costs.</p><p>The Affordable Care Act’s excise tax places a 40% levy on high-cost employer-sponsored health plans ($10,200 for individuals, $27,000 for families). Originally set to go into effect in 2018, it recently was pushed back until 2020 and some say may be repealed altogether by Congress. </p>
+
+			
+				
+<div class="mod-enhancement e-full-width">
+	<figure class="image">
+	
+
+	 
+<img  src="https://assets.sourcemedia.com/dims4/default/9a4bc3b/2147483647/resize/680x%3E/quality/90/?url=https%3A%2F%2Fassets.sourcemedia.com%2Fd8%2Fd0%2Fa342fc9447b28a49b3e0e6841a43%2Febn-021716-p4.jpg" alt="[Image: Bloomberg]" />
+
+    
+
+ 
+
+	
+	<figcaption>
+		<h5>
+</h5>
+ [Image: Bloomberg]
+ 
+
+	</figcaption>
+	
+</figure>
+</div>
+
+			
+				<p>Employers remain concerned about the tax, but with all the uncertainties few have begun to prepare for it. More than half (61%) of the employers surveyed for a 2015 Healthcare Trends Institute study said they had made no changes to their 2016 benefit plans in advance of the tax. Another 24% indicated that although they hadn’t made any changes to 2016 plans, they expect to do so in 2017. Only 10% have actually made concrete plans to to avoid the tax, while just 8% have already adjusted their plans to sidestep the ACA levy.</p><p>Compared with prior years, fewer employers seem concerned with the tax, according to Tiffany Wirth, the executive director of HTI, who says this may be a sign that they now have a better understanding about how the tax would affect their company.</p><p>Still, some employers are making changes. </p><p>“What employers are still looking to do is to try to chip away at the cost problem they have had for many years,” says Don Garlitz, senior vice president of bswift. These include plan design changes, such as providing a high-deductible option coupled with an HSA.</p><p><b>Plan options</b></p><p>Fifty-eight percent of employers with 500 or more employees in 2015 offered HDHPs as a plan option, up from 51% in 2014, according to a 2015 bswift Benefits Study. “It’s a strategy that continues to grow,” Garlitz says. </p><p>Optimizing the network is another strategy he recommends that employers and their advisers should consider. Advisers, he says, should not only work with employers to implement these design changes, but also help them understand the new options provide employees choice. Advisers should help employers and employees clearly understand the pros and cons of each choice.&quot;</p><p>This, he says, will help avoid a backlash similar to the one employers experienced in the 90’s, when they switched to the popular at the time HMO model.</p>
+
+			
+				
+<div class="mod-enhancement e-full-width">
+	<blockquote class="bsp-component sm-blockquote">
+	<span class="eyebrow">Quote</span>
+	<div class="content">
+	&quot;What employers are still looking to do is to try to chip away at the cost problem they have had for many years.&quot;
+	</div>
+
+
+	
+	
+</blockquote>
+</div>
+
+			
+				<p>Another survey, the 2015 Mercer National Survey of Employer-Sponsored Health Plans, found that 11% of large employers dropped a high-cost plan in 2015 to avoid the excise tax, while 19% made changes to shift some of their plan costs to their employees.</p><p> “Employers even started to think about the configuration about what would be included in the excise tax,” says Sander Domaszewicz, a principal and senior consultant with Mercer. “So, having employee contributions to FSAs added to the tax was of concern to some.”</p><p>Three percent of large employers eliminated their health care FSAs altogehter, the survey found.</p><p><br /></p> 
+
+			
+		</div>
+
+	</div>
+</article>
+
+			
+				<div class="comments component" data-bsp-commenting>
+    
+    <h5 class="component-title">Comments</h5>
+    
+
+    <div class="commenting-content">
+
+        
+        <div class="comments-sign-in">
+            <div class="comments-sign-in-text"><div class="component-group">
+	
+		<a  href="#" title="Login" data-sm-user-login data-sm-user-login-content-url="https://www.benefitnews.com/auth/login" data-cms-ai="0">Login</a>
+	
+		 or 
+	
+		<a  href="#" title="Register" data-sm-user-register data-sm-user-register-content-url="https://www.benefitnews.com/auth/register" data-cms-ai="0">Register</a>
+	
+		 to be the first to comment
+	
+</div>
+</div>
+            <ul class="comments-sign-in-choices">
+                
+            </ul>
+        </div>
+        
+
+        
+
+        
+        <div class="comments-list-wrapper">
+
+            <ul class="comments-list">
+                
+            </ul>
+        </div>
+        
+
+        
+    </div>
+</div>
+			
+		</div>
+
+		<div class="bsp-column-fixed-width sm-right-rail">
+			
+		</div>
+
+	</div>
+</div>
+
+</div>

@@ -1,0 +1,403 @@
+				<article class="bsp-container" data-sm-article>
+
+	
+		<header>
+	
+		<div class="bsp-page-title-wrapper">
+	<h1 class="bsp-page-title title-small">
+		
+		5 considerations when hiring a benefits tech vendor
+	</h1>
+</div>
+	
+</header>
+	
+
+	<div class="bsp-row">
+
+		<div class="article-first">
+			
+				
+    
+		<div class="bsp-tags">
+    <div class="bsp-tag-list-title">By</div>
+    <ul class="bsp-tag-list">
+        
+            <li><a class="bsp-tag" href="//www.benefitnews.com/author/bruce-shutan" data-cms-ai="0">Bruce Shutan</a></li>
+        
+    </ul>
+</div>
+
+	
+		<div class="bsp-tags">
+    <div class="bsp-tag-list-title">Published</div>
+    <ul class="bsp-tag-list">
+        
+            <li>February 17 2016, 12:53am EST</li>
+        
+    </ul>
+</div>
+
+	
+		<div class="bsp-tags">
+    <div class="bsp-tag-list-title">More in</div>
+    <ul class="bsp-tag-list">
+        
+            <li><a class="bsp-tag" href="/tag/voluntary-benefits" data-cms-ai="0">Voluntary benefits</a></li>
+        
+            <li><a class="bsp-tag" href="/tag/dental-insurance" data-cms-ai="0">Dental insurance</a></li>
+        
+            <li><a class="bsp-tag" href="/tag/vision-insurance" data-cms-ai="0">Vision insurance</a></li>
+        
+            <li><a class="bsp-tag" href="/tag/insurance" data-cms-ai="0">Insurance</a></li>
+        
+    </ul>
+</div>
+
+	
+
+			
+		</div>
+
+		<div class="article-body">
+			
+				<div class="action-bar action-bar-size--large">
+    
+        <a
+    
+     
+    class="action action-size--large"
+    data-sm-action-print data-cms-ai="0">
+    <i class="icon icon-print"></i>
+    <span class="label">Print</span>
+    
+</a>
+
+    
+        <a
+    href="mailto:?subject=Demand%20for%20dental%2C%20vision%20benefits%20remains%20strong&amp;body=Even%20as%20employers%20increasingly%20shift%20the%20cost%20of%20these%20programs%20on%20to%20employees%20through%20voluntary%20plans%2C%20workers%20are%20seeing%20value%20in%20them.%0A%0Ahttp://www.benefitnews.com/news/demand-for-dental-vision-benefits-remains-strong"
+     
+    class="action action-size--large"
+    data-sm-action-email data-cms-ai="0">
+    <i class="icon icon-email"></i>
+    <span class="label">Email</span>
+    
+</a>
+
+    
+        <a
+    href="http://www.sourcemediareprints.com/"
+    target="_blank" 
+    class="action action-size--large"
+    data-sm-action-reprint data-cms-ai="0">
+    <i class="icon icon-reprint"></i>
+    <span class="label">Reprints</span>
+    
+</a>
+
+    
+        <a
+    
+     
+    class="action action-size--large"
+    data-sm-action-share data-cms-ai="0">
+    <i class="icon icon-share"></i>
+    <span class="label">Share</span>
+    
+        <span class="share-links-wrapper">
+
+	<span class="share-links-title">Share on</span>
+
+	<ul class="share-links" data-bsp-share
+    	data-bsp-share-options='{
+    			"description":"Even as employers increasingly shift the cost of these programs on to employees through voluntary plans, workers are seeing value in them.",
+    			"image":"https://assets.sourcemedia.com/4b/da/1d627c4e414a996934ebe838579e/ebn-dental-2-17-19.png",
+    			"title":"Demand for dental, vision benefits remains strong",
+    			"url":"http://www.benefitnews.com/news/demand-for-dental-vision-benefits-remains-strong",
+    			"redirectUrl":"http://www.benefitnews.com/news/demand-for-dental-vision-benefits-remains-strong",
+    			"iconClass":"icon",
+    			"serviceProps":{
+					
+						"linkedin": {
+							
+							"title": "",
+							"caption": "",
+							"description": "",
+							"linkText" : "<span>linkedin</span>"
+						}
+						,
+					
+						"twitter": {
+							
+							"title": "",
+							"caption": "Demand for dental, vision benefits remains strong",
+							"description": "",
+							"linkText" : "<span>twitter</span>"
+						}
+						,
+					
+						"facebook": {
+							"appId": "1538398496471831",
+							"title": "",
+							"caption": "",
+							"description": "",
+							"linkText" : "<span>facebook</span>"
+						}
+						,
+					
+						"google": {
+							
+							"title": "",
+							"caption": "",
+							"description": "",
+							"linkText" : "<span>google</span>"
+						}
+						
+					
+    			},
+                "sharingClass"       : "share-link",
+                "serviceClassBefore" : ""
+    		}'>
+		
+			
+				<li class="linkedin-share">
+    
+</li>
+
+			
+		
+			
+				<li class="twitter-share">
+    
+</li>
+
+			
+		
+			
+				<li class="facebook-share">
+    
+</li>
+
+			
+		
+			
+				<li class="google-share">
+    
+</li>
+
+			
+		
+	</ul>
+</span>
+
+    
+</a>
+
+    
+</div>
+
+			
+				<p>Two common denominators are reshaping the dental and vision benefits equation: One is increasing awareness of their respective correlation to overall health, while the other is a growing desire for greater freedom of choice. Together, these key themes are expected to help elevate flat plan participation in a post-healthcare reform environment as employees and their families continue to shoulder more financial responsibility for these benefits. </p><p>Integration of dental and vision plans certainly has improved with the help of technology, says Srikanth Lakshminarayanan, senior director for the Center of Excellence at HGS Healthcare, which provides business process management and end-to-end services for healthcare payers and provider organizations. He says the pairing also helps streamline plan administration.</p>
+
+			
+				
+<div class="mod-enhancement e-full-width">
+	<figure class="image">
+	
+
+	 
+<img  src="https://assets.sourcemedia.com/dims4/default/59a8424/2147483647/resize/680x%3E/quality/90/?url=https%3A%2F%2Fassets.sourcemedia.com%2F4b%2Fda%2F1d627c4e414a996934ebe838579e%2Febn-dental-2-17-19.png" alt />
+
+    
+
+ 
+
+	
+	<figcaption>
+		<h5>
+</h5>
+
+
+	</figcaption>
+	
+</figure>
+</div>
+
+			
+				<p>The challenge at hand is to generate and sustain enough interest in these benefits relative to others ancillary and core benefit offerings. A purchasing shift in the marketplace means fewer employers are obtaining their dental benefit from the same carrier that provides medical coverage, according to Evelyn Ireland, executive director of the National Association of Dental Plans. </p><p>She says the preference is to bundle dental with a larger range of ancillary benefits such as life and disability coverage, though the dental-vision combination hasn’t changed significantly in recent years. “We went from 11% to over 19% getting it in conjunction with other products” as shown in NADP’s most recent research, she says. </p><p>A leading dental and vision carrier took this idea a step further by packaging the former with education assistance. Last summer, the Guardian Life Insurance Company of America began offering to its dental plan members a college tuition benefit managed by SAGE Scholars, Inc. Those employees are able to earn credits that can be used to pay up to one year’s tuition at one of more than 340 private colleges and universities across the nation.</p>
+
+			
+				
+<div class="mod-enhancement e-full-width">
+	<blockquote class="bsp-component sm-blockquote">
+	<span class="eyebrow">Quote</span>
+	<div class="content">
+	 “We see a lot of bundling. Some of it is to spark interest in [the products], and some of it is just out of convenience.&quot;
+	</div>
+
+
+	
+	
+</blockquote>
+</div>
+
+			
+				<p>“It’s something that has caught people’s attention,” says Stuart Shaw, VP of group risk management and chief actuary at Guardian about the unusual offering. “We see a lot of bundling. Some of it is to spark interest in [the products], and some of it is just out of convenience. Our research always shows that people tend to buy at the worksite” where payroll deduction makes the purchase easier. </p><p><b style="mso-bidi-font-weight:
+normal">Benefits of high utilization</b></p><p>A notable strategic objective associated with both dental and vision benefits is to keep plan utilization high at a time when oral hygiene and proper eye care increasingly are being tied to good overall health, says David Guarrera, VP in MetLife's dental and vision business. </p><p>“If a plan participant has gum disease, we know that has implications to diabetes or cardiovascular disease,” he says. Similarly, “employers and employees are really becoming aware that their eye care provider is as important a healthcare provider as their physician or dentist.” Eye doctors are now diagnosing hypertension and diabetes in their patients “at a very high rate,” he adds, noting how routine eye examinations can spot ocular pressure – an indicator of high blood pressure. </p><p>Given this commonality, Guarrera says dental and vision plans continue to represent “a common bundle in the marketplace” for employers of all sizes. As part of that packaging, he notes that plan sponsors want these specialty providers to communicate with medical or wellness vendors and share data for better health outcomes and cost containment.</p><p><b style="mso-bidi-font-weight:
+normal">Flattening enrollment</b></p><p>The opportunities to leverage this information may be dwindling – at least in the workplace. </p><p>NADP’s latest enrollment survey shows a slight uptick in the percentage of Americans with dental coverage to 64% in 2014 from 61% in 2013. It was fueled largely by Medicaid and the Children’s Health Insurance Program in compliance with the Affordable Care Act’s pediatric dental benefits mandate. “That’s the biggest jump that we’ve seen in the last 15 years,” says Ireland. </p><p>But she also notes that enrollment in commercial or private dental benefits has been flat over the past several years, with internal shifts from employer-paid dental benefits to greater employee-paid voluntary benefits. More than 90% of enrollment in commercially available dental plans is through a group plan. </p>
+
+			
+				
+<div class="mod-enhancement e-full-width">
+	<blockquote class="bsp-component sm-blockquote">
+	<span class="eyebrow">Quote</span>
+	<div class="content">
+	“There is a shift away from group benefits to individual, which is an indication that some employers are no longer offering coverage.”
+	</div>
+
+
+	
+	
+</blockquote>
+</div>
+
+			
+				<p>“There is a shift away from group benefits to individual, which is an indication that some employers are no longer offering coverage,” Ireland reports. “Or they may be offering voluntary coverage, and there’s not as much uptake from the population because of cost concerns.” </p><p>Shaw has seen a gradual push toward voluntary dental benefits – driven, in part, by the rise of private health insurance exchanges. Indeed, the funding of dental benefits has shifted to 23.5% on a voluntary basis in 2014 from 10% in 2010, which is validated by a recent NADP survey of consumers. The percentage of employers picking up the entire cost of dental benefits plummeted to 6.5% in 2014 from 22% in 2010, according to NADP, while the employee-pay-all percentage soared to 23.5% from 10% during that time. </p><p>Dental plan premiums also have been flat to negative over the past year, with a trend to lower annual maximums coupled with increasing use of annual maximum roll-over provisions or P&amp;D credits, which Ireland says increase the value of the benefit to the employee who is more often paying all or a large part of the premium.</p><p>A significant shift to network providers has occurred, with Ireland noting that 2014 witnessed the lowest-ever utilization of out-of-network providers in dental PPOs and just 1% of enrollees reaching the maximum benefit out of network. “Generally, it’s 5% to 7%,” she explains. “So enrollees are really paying attention.”</p><p>Dental PPO networks are starting to splinter into multiple tiers with varying coverage levels, according to Shaw, who also has noticed an uptick in interest in DHMO or prepaid products. “I think people are just realizing how cost-effective they can be, and that you can get pretty comprehensive benefits at a pretty nice price point,” he explains. </p><p>More than 80% of the nation’s group dental plans involve the PPO model – a percentage that’s increasing – while DHMOs and the older-style indemnity plans are decreasing year-over-year, counters Guarrera. In addition, he says greater than 70% of all practicing dentists are in dental PPOs. Expanded network access not only helps reduce out-of-pocket costs, but also allows employees to keep their family dentist. </p><p>In spite of a largely quiet group market, demand for dental benefits remains strong, says Shaw, noting that the annual Guardian Workplace Benefits Study found most working Americans looking for financial security in the form of various insurance products offered at work.</p><p><b style="mso-bidi-font-weight:
+normal">Dental plan design tweaks</b></p><p>That security net is strengthened when dental plans are adjusted to reflect marketplace trends. Ireland has seen the emergence of preventive and diagnostic care credits that do not apply toward the annual maximum. </p><p>“Your annual maximum may have gone from $1,500 to $1,000, but the several hundred dollars that is spent on prevention, maybe $400 or $500 if you go a couple times a year, is not credited or taken against your annual maximum,” she says. “Even though the annual maximum itself would be down, it kind of extends the value of the benefit back up to that higher annual maximum.”</p><p>More employers are modernizing their dental plan designs in recognition of these changing times, Guarrera explains. Strategies include asking carriers to weed out certain features (e.g., dental X-rays in terms of frequency limits) to offset the cost of higher annual maximums. He also believes the group dental market will continue its shift toward voluntary coverage as employers decide to pull back on contributions or fix their costs. </p><p>Another notable area is that employers will continue to carve out orthodontics as a separate line item, according to Lakshminarayanan. Claims data indicate a significant increase in the number of orthodontic procedures during the past two years, which he says has led to payers to streamline utilization management or prior authorization of these costly procedures. </p><p>The continued push for transparency has improved plan designs. “In the past, there was a fine line between a cosmetic dental procedure and what was medically necessary,” he observes. “Now, the criteria are much clearer on what is cosmetic in nature and what is required based on medical necessity.”</p><p>Given changing workplace demographics, Guarrera believes plan portability will become an increasingly important feature. MetLife recently launched TakeAlong Dental, which covers part-time or retired employees who do not have a traditional group plan offering because of administration restrictions or cost. “We saw a real need in the marketplace for those individuals who may want a different solution with that portable dental,” he says.</p><p>Being more attuned to customer needs will pay substantial dividends down the road in terms of benefits satisfaction and appreciation. When employees are satisfied with their benefit package, MetLife’s latest annual Employee Benefits Trends Study suggests they’re four times more likely to be satisfied with their jobs, which doubled in just one year. “Employers are very aware of that” when courting and keeping top talent, Guarrera says. </p><p><b style="mso-bidi-font-weight:
+normal">A broader vision</b></p><p>As much as working Americans would like the option to keep their family dentist, that same thinking can be applied toward eye care. A desire for broader choice is driving the vision benefits area, Lakshminarayanan notes. </p>
+
+			
+				
+<div class="mod-enhancement e-full-width">
+	<blockquote class="bsp-component sm-blockquote">
+	<span class="eyebrow">Quote</span>
+	<div class="content">
+	“What we now hear from the customer is that they want a choice of options to be much broader.”
+	</div>
+
+
+	
+	
+</blockquote>
+</div>
+
+			
+				<p>“What we now hear from the customer is that they want a choice of options to be much broader,” he says. “They don’t want to be tied up to a particular vision care company” in order to obtain group discounts. Certain groups also are picking up the cost of wellness visits for vision, while he sees a growing number of inquiries from benefit plan participants about their annual benefits.</p><p>Shaw expects a wider choice of network providers that include independent optometrists along with national chain stores such as Walmart, Costco and Visionworks. But demand is relatively the same from one year to the next. Based on Guardian’s claim experience, for instance, there hasn’t been much of a shift in the proportion of people ordering eyeglasses or contact lenses. </p>
+
+			
+				
+<div class="mod-enhancement e-left-pi sponsored">
+	<div class="feed-item  ">
+	
+	<h4><a  href="//www.benefitnews.com/partnerinsights/Limeade/article/3-ways-gamification-can-improve-your-teams-well-being" target data-cms-ai="0">	
+		<span>Article</span>
+	
+	3 ways gamification can improve your team’s well-being
+</a></h4>
+	
+
+	
+
+	
+
+	
+
+	
+	<div class="item-body">
+		What does a big, fancy word like “gamification” mean anyway? Simply put, it’s the idea that game-like rules and rewards make the hard stuff fun. And smart leaders now use it to engage and motivate their employees.
+
+	</div>
+	
+
+	
+
+	
+
+	
+		<div class="sponsored-by pi-sponsor">
+	<span>Partner Insights<br>Sponsor Content From: 
+</span>
+	<a  href="http://www.limeade.com" target="_blank" data-cms-ai="0">
+<img  src="https://assets.sourcemedia.com/dims4/default/e30f08a/2147483647/resize/200x%3E/quality/90/?url=https%3A%2F%2Fassets.sourcemedia.com%2Fe5%2F7a%2F892ecd444ae1b4e3d5c60afa9e92%2Flimeade.png" alt="Limeade" />
+
+    
+
+</a>
+</div>
+	
+
+	
+		<div class="item-meta">
+			<div class="component-footer ">
+	
+	<span class="tag"><a  href="/tag/employee-benefits" data-cms-ai="0">Employee benefits</a></span>
+	
+
+	
+
+	<span class="byline">
+		
+
+        <span class="timestamp">3h ago</span>
+	</span>
+</div>
+		</div>
+	
+
+</div>
+</div>
+
+			
+				<div class="author-module module">
+	<div class="author-bio">
+		
+			<a  href="//www.benefitnews.com/author/bruce-shutan" title="Bruce Shutan" class="author-image" data-cms-ai="0">
+<img  src="https://assets.sourcemedia.com/dims4/default/8953098/2147483647/thumbnail/70x70/quality/90/?url=https%3A%2F%2Fassets.sourcemedia.com%2Fcd%2F0c%2Fabca25604cc9b7c7974f13ae22d3%2Fbruce-shutan-2015-smiling.jpg" alt="Bruce Shutan" width="70" height="70" />
+
+    
+
+</a>
+		
+		<div class="bio">
+			
+				<h4><a  href="//www.benefitnews.com/author/bruce-shutan" data-cms-ai="0">Bruce Shutan</a></h4>
+			
+
+            
+                <div>
+                    Bruce Shutan is a Los Angeles-based freelance writer.
+
+                </div>
+            
+
+            
+		</div>
+	</div>
+	
+	<div class="author-more">
+		
+			<h6>More from this Author</h6>
+
+		
+			
+<ul class="list">
+	
+		<li><a  href="//www.benefitnews.com/news/mobile-apps-driving-401-k-plan-management" data-cms-ai="0">Mobile apps driving 401(k) plan management</a></li>
+	
+		<li><a  href="//www.benefitnews.com/news/how-private-exchanges-are-doing-disease-management" data-cms-ai="0">Private exchanges launch disease management programs</a></li>
+	
+		<li><a  href="//www.benefitnews.com/news/regulation/has-the-time-come-to-add-in-house-counsel-2748119-1.html" data-cms-ai="0">Has the time come to add in-house counsel?
+</a></li>
+	
+</ul>
+
+		
+	</div>
+	
+</div>
+
+			
+		</div>
+
+	</div>
+</article>
