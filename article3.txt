@@ -2,29 +2,6 @@
 
 <div class="wrapper skin-light-background"  data-content-type="article">
     
-        <script  type="text/javascript">
-var dimension1 = "Melissa A. Winn";
-
-var dimension3 = "non-registered-user";
-
-var dimension5 = "FreeWithReg";
-
-var dimension6 = "";
-
-var dimension8 = "21";
-
-var dimension9 = "20160217";
-
-var dimension10 = "Healthcare plans, Cadillac tax, Practice management, Insurance";
-
-var dimension14 = "523";
-
-var dimension15 = "Article";
-
-var dimension17 = "Healthcare plans, Cadillac tax, Practice management, Insurance";
-
-var dimension20 = "Scrolled";
-</script>
 
     
 
@@ -36,17 +13,7 @@ var dimension20 = "Scrolled";
 
 		<div class="bsp-column-flex sm-column-flex">
 			
-				<div
-     data-reading-list-leaderboard-ad
-    class="sm-advertisement"
-    data-sm-google-ad
-    data-sm-google-ad-options='{
-        "id":"gpt-ad-collapsed_header3",
-        "position":"collapsed_header3",
-        "sizes":"[[728,90],[970,90],[970,250],[970,91]]",
-        "deferRendering":false
-        
-    }'>
+		
 </div>
 
 			

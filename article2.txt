@@ -1,4 +1,13 @@
-<article class="bsp-container" data-sm-article="">
+<div class="wrapper skin-light-background" data-content-type="article">
+	<div class="bsp-container">
+
+	
+
+	<div class="bsp-row sm-flexbox">
+
+		<div class="bsp-column-flex sm-column-flex">
+			
+				<article class="bsp-container bsp-onDomInsert-inserted-15 sm-article-item" data-sm-article="">
 
 	
 		<header>
@@ -63,115 +72,32 @@
 			
 				<div class="action-bar action-bar-size--large">
     
-        <a class="action action-size--large" data-sm-action-print="" data-cms-ai="0">
+        <a class="action action-size--large bsp-onDomInsert-inserted-32 sm-action-print-item" data-sm-action-print="" data-cms-ai="0">
     <i class="icon icon-print"></i>
     <span class="label">Print</span>
     
 </a>
 
     
-        <a href="mailto:?subject=HDHPs%20stay%20in%20favor%20as%20Cadillac%20tax%20mitigation%20strategy%20&amp;body=The%20fate%20of%20the%20ACA%E2%80%99s%20excise%20tax%20notwithstanding%2C%20employers%20continue%20to%20look%20at%20an%20array%20of%20options%20to%20rein%20in%20their%20healthcare%20costs.%0A%0Ahttp://www.benefitnews.com/HDHPs-stay-in-favor-as-Cadillac-tax-mitigation-strategy -EBN" class="action action-size--large" data-sm-action-email="" data-cms-ai="0">
+        <a href="mailto:?subject=HDHPs%20stay%20in%20favor%20as%20Cadillac%20tax%20mitigation%20strategy%20&amp;body=The%20fate%20of%20the%20ACA%E2%80%99s%20excise%20tax%20notwithstanding%2C%20employers%20continue%20to%20look%20at%20an%20array%20of%20options%20to%20rein%20in%20their%20healthcare%20costs.%0A%0Ahttp://www.benefitnews.com/HDHPs-stay-in-favor-as-Cadillac-tax-mitigation-strategy -EBN" class="action action-size--large bsp-onDomInsert-inserted-9 sm-action-email-item" data-sm-action-email="" data-cms-ai="0">
     <i class="icon icon-email"></i>
     <span class="label">Email</span>
     
 </a>
 
     
-        <a href="http://www.sourcemediareprints.com/" target="_blank" class="action action-size--large" data-sm-action-reprint="" data-cms-ai="0">
+        <a href="http://www.sourcemediareprints.com/" target="_blank" class="action action-size--large bsp-onDomInsert-inserted-33 sm-action-reprint-item" data-sm-action-reprint="" data-cms-ai="0">
     <i class="icon icon-reprint"></i>
     <span class="label">Reprints</span>
     
 </a>
 
     
-        <a class="action action-size--large" data-sm-action-share="" data-cms-ai="0">
+        <a class="action action-size--large bsp-onDomInsert-inserted-8 sm-action-share-item drop-theme-sharebar drop-target" data-sm-action-share="" data-cms-ai="0">
     <i class="icon icon-share"></i>
     <span class="label">Share</span>
     
-        <span class="share-links-wrapper">
-
-	<span class="share-links-title">Share on</span>
-
-	<ul class="share-links" data-bsp-share="" data-bsp-share-options="{
-    			&quot;description&quot;:&quot;The fate of the ACA’s excise tax notwithstanding, employers continue to look at an array of options to rein in their healthcare costs.&quot;,
-    			&quot;image&quot;:&quot;https://assets.sourcemedia.com/d8/d0/a342fc9447b28a49b3e0e6841a43/ebn-021716-p4.jpg&quot;,
-    			&quot;title&quot;:&quot;HDHPs stay in favor as Cadillac tax mitigation strategy&quot;,
-    			&quot;url&quot;:&quot;http://www.benefitnews.com/HDHPs-stay-in-favor-as-Cadillac-tax-mitigation-strategy -EBN&quot;,
-    			&quot;redirectUrl&quot;:&quot;http://www.benefitnews.com/HDHPs-stay-in-favor-as-Cadillac-tax-mitigation-strategy -EBN&quot;,
-    			&quot;iconClass&quot;:&quot;icon&quot;,
-    			&quot;serviceProps&quot;:{
-					
-						&quot;linkedin&quot;: {
-							
-							&quot;title&quot;: &quot;&quot;,
-							&quot;caption&quot;: &quot;&quot;,
-							&quot;description&quot;: &quot;&quot;,
-							&quot;linkText&quot; : &quot;<span>linkedin</span>&quot;
-						}
-						,
-					
-						&quot;twitter&quot;: {
-							
-							&quot;title&quot;: &quot;&quot;,
-							&quot;caption&quot;: &quot;HDHPs stay in favor as Cadillac tax mitigation strategy&quot;,
-							&quot;description&quot;: &quot;&quot;,
-							&quot;linkText&quot; : &quot;<span>twitter</span>&quot;
-						}
-						,
-					
-						&quot;facebook&quot;: {
-							&quot;appId&quot;: &quot;1538398496471831&quot;,
-							&quot;title&quot;: &quot;&quot;,
-							&quot;caption&quot;: &quot;&quot;,
-							&quot;description&quot;: &quot;&quot;,
-							&quot;linkText&quot; : &quot;<span>facebook</span>&quot;
-						}
-						,
-					
-						&quot;google&quot;: {
-							
-							&quot;title&quot;: &quot;&quot;,
-							&quot;caption&quot;: &quot;&quot;,
-							&quot;description&quot;: &quot;&quot;,
-							&quot;linkText&quot; : &quot;<span>google</span>&quot;
-						}
-						
-					
-    			},
-                &quot;sharingClass&quot;       : &quot;share-link&quot;,
-                &quot;serviceClassBefore&quot; : &quot;&quot;
-    		}">
-		
-			
-				<li class="linkedin-share">
-    
-</li>
-
-			
-		
-			
-				<li class="twitter-share">
-    
-</li>
-
-			
-		
-			
-				<li class="facebook-share">
-    
-</li>
-
-			
-		
-			
-				<li class="google-share">
-    
-</li>
-
-			
-		
-	</ul>
-</span>
+        
 
     
 </a>
@@ -226,11 +152,7 @@
 </div>
 
 			
-				<p>Another survey, the 2015 Mercer National Survey of Employer-Sponsored Health Plans, found that 11% of large employers dropped a high-cost plan in 2015 to avoid the excise tax, while 19% made changes to shift some of their plan costs to their employees.</p><p> “Employers even started to think about the configuration about what would be included in the excise tax,” says Sander Domaszewicz, a principal and senior consultant with Mercer. “So, having employee contributions to FSAs added to the tax was of concern to some.”</p><p>Three percent of large employers eliminated their health care FSAs altogehter, the survey found.</p><p><br></p> 
-
-			
-				
-<div class="mod-enhancement e-left-pi sponsored">
+				<p>Another survey, the 2015 Mercer National Survey of Employer-Sponsored Health Plans, found that 11% of large employers dropped a high-cost plan in 2015 to avoid the excise tax, while 19% made changes to shift some of their plan costs to their employees.</p><div class="mod-enhancement e-left-pi sponsored">
 	<div class="feed-item  ">
 	
 	<h4><a href="//www.benefitnews.com/partnerinsights/Limeade/video/what-keeps-hr-professionals-up-at-night" target="" data-cms-ai="0">	
@@ -247,10 +169,7 @@
 	
 
 	
-	<div class="item-body">
-		When leading HR professionals from around the country were asked what keeps them up at night, here's what they said.
-
-	</div>
+	<div class="item-body" style="float: none; position: static;">When leading HR professionals from around the country were asked what keeps them up at …</div>
 	
 
 	
@@ -289,10 +208,96 @@
 	
 
 </div>
-</div>
+</div><p> “Employers even started to think about the configuration about what would be included in the excise tax,” says Sander Domaszewicz, a principal and senior consultant with Mercer. “So, having employee contributions to FSAs added to the tax was of concern to some.”</p><p>Three percent of large employers eliminated their health care FSAs altogehter, the survey found.</p><p><br></p> 
+
+			
+				
+
 
 			
 		</div>
 
 	</div>
 </article>
+
+			
+				<div class="comments component bsp-onDomInsert-inserted-16 bsp-commenting-item" data-bsp-commenting="">
+    
+    <h5 class="component-title">Comments</h5>
+    
+
+    <div class="commenting-content">
+
+        
+        <div class="comments-sign-in">
+            <div class="comments-sign-in-text"><div class="component-group">
+	
+		<a href="#" title="Login" data-sm-user-login="" data-sm-user-login-content-url="https://www.benefitnews.com/auth/login" data-cms-ai="0" class="bsp-onDomInsert-inserted-7 sm-user-login-item">Login</a>
+	
+		 or 
+	
+		<a href="#" title="Register" data-sm-user-register="" data-sm-user-register-content-url="https://www.benefitnews.com/auth/register" data-cms-ai="0" class="bsp-onDomInsert-inserted-2 sm-user-register-item">Register</a>
+	
+		 to be the first to comment
+	
+</div>
+</div>
+            <ul class="comments-sign-in-choices">
+                
+            </ul>
+        </div>
+        
+
+        
+
+        
+        <div class="comments-list-wrapper">
+
+            <ul class="comments-list">
+                
+            </ul>
+        </div>
+        
+
+        
+    </div>
+</div>
+			
+		</div>
+
+		<div class="bsp-column-fixed-width sm-right-rail">
+			
+				<div id="gpt-ad-bigbox1">
+    <script type="text/javascript">
+        googletag.cmd.push(function() {
+            googletag.display('gpt-ad-bigbox1');
+        });
+    </script><div id="google_ads_iframe_/16059533/EBNBenefitNews/Article_1__container__" style="border: 0pt none;"><iframe id="google_ads_iframe_/16059533/EBNBenefitNews/Article_1" name="google_ads_iframe_/16059533/EBNBenefitNews/Article_1" width="300" height="250" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" src="javascript:&quot;<html><body style='background:transparent'></body></html>&quot;" style="border: 0px; vertical-align: bottom;"></iframe></div>
+</div>
+
+			
+				<div id="stickyContainer"><div class="module mod-reading-list sticky bsp-onDomInsert-inserted-12 sm-reading-list-item" data-sm-reading-list="">
+	<h3 class="module-heading">Reading List</h3><div class="mod-reading-list-progress-bar-wrapper"><div class="mod-reading-list-progress-bar"></div></div>
+	
+
+
+
+	
+<a class="mod-reading-list-view-all" href="#">View all 5 articles in this collection</a></div><div id="gpt-ad-bigbox2" class="sticky">
+    <script type="text/javascript">
+        googletag.cmd.push(function() {
+            googletag.display('gpt-ad-bigbox2');
+        });
+    </script><div id="google_ads_iframe_/16059533/EBNBenefitNews/Article_2__container__" style="border: 0pt none;"><iframe id="google_ads_iframe_/16059533/EBNBenefitNews/Article_2" name="google_ads_iframe_/16059533/EBNBenefitNews/Article_2" width="300" height="250" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" src="javascript:&quot;<html><body style='background:transparent'></body></html>&quot;" style="border: 0px; vertical-align: bottom;"></iframe></div>
+</div></div>
+
+			
+				
+
+			
+		</div>
+
+	</div>
+</div>
+
+</div>

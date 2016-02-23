@@ -1,0 +1,326 @@
+<div class="wrapper skin-light-background" data-content-type="opinion-article">
+	<div class="bsp-container">
+
+	
+
+	<div class="bsp-row sm-flexbox">
+
+		<div class="bsp-column-flex sm-column-flex">
+			
+				<article class="bsp-container bsp-onDomInsert-inserted-15 sm-article-item" data-sm-article="">
+
+	
+		<header>
+	
+		<div class="bsp-page-title-wrapper">
+	<h1 class="bsp-page-title title-small">
+		
+			<span>Views</span>
+		
+		5 considerations when hiring a benefits tech vendor
+	</h1>
+</div>
+	
+</header>
+	
+
+	<div class="bsp-row">
+
+		<div class="article-first">
+			
+				
+    
+		<div class="bsp-tags">
+    <div class="bsp-tag-list-title">By</div>
+    <ul class="bsp-tag-list">
+        
+            <li>Veer Gidwaney</li>
+        
+    </ul>
+</div>
+
+	
+		<div class="bsp-tags">
+    <div class="bsp-tag-list-title">Published</div>
+    <ul class="bsp-tag-list">
+        
+            <li>February 17 2016, 12:29pm EST</li>
+        
+    </ul>
+</div>
+
+	
+		<div class="bsp-tags">
+    <div class="bsp-tag-list-title">More in</div>
+    <ul class="bsp-tag-list">
+        
+            <li><a class="bsp-tag" href="/tag/hr-technology" data-cms-ai="0">HR Technology</a></li>
+        
+            <li><a class="bsp-tag" href="/tag/insurance" data-cms-ai="0">Insurance</a></li>
+        
+            <li><a class="bsp-tag" href="/tag/employee-communications" data-cms-ai="0">Employee communications</a></li>
+        
+            <li><a class="bsp-tag" href="/tag/technology" data-cms-ai="0">Technology</a></li>
+        
+    </ul>
+</div>
+
+	
+
+			
+		</div>
+
+		<div class="article-body">
+			
+				<div class="action-bar action-bar-size--large">
+    
+        <a class="action action-size--large bsp-onDomInsert-inserted-32 sm-action-print-item" data-sm-action-print="" data-cms-ai="0">
+    <i class="icon icon-print"></i>
+    <span class="label">Print</span>
+    
+</a>
+
+    
+        <a href="mailto:?subject=5%20considerations%20when%20hiring%20a%20benefits%20tech%20vendor&amp;body=The%20insurance%20industry%20has%20long%20been%20plagued%20by%20jargon%2C%20complexity%20and%20manual%20processes%2C%20says%20Maxwell%20Health%E2%80%99s%20Veer%20Gidwaney.%20Technology%20can%20help%2C%20but%20employers%20need%20to%20do%20their%20homework.%09%0A%0Ahttp://www.benefitnews.com/opinion/5-considerations-when-hiring-a-benefits-tech-vendor" class="action action-size--large bsp-onDomInsert-inserted-9 sm-action-email-item" data-sm-action-email="" data-cms-ai="0">
+    <i class="icon icon-email"></i>
+    <span class="label">Email</span>
+    
+</a>
+
+    
+        <a href="http://www.sourcemediareprints.com/" target="_blank" class="action action-size--large bsp-onDomInsert-inserted-33 sm-action-reprint-item" data-sm-action-reprint="" data-cms-ai="0">
+    <i class="icon icon-reprint"></i>
+    <span class="label">Reprints</span>
+    
+</a>
+
+    
+        <a class="action action-size--large bsp-onDomInsert-inserted-8 sm-action-share-item drop-theme-sharebar drop-target" data-sm-action-share="" data-cms-ai="0">
+    <i class="icon icon-share"></i>
+    <span class="label">Share</span>
+    
+        
+
+    
+</a>
+
+    
+</div>
+
+			
+				<p>The employee benefits industry, perhaps more than any other that affects a majority of Americans, has long been plagued by jargon, complexity, and manual processes due to outdated technology. The good news: the past few years have brought an explosion of growth and innovation aimed at solving these problems. </p>
+
+			
+				
+<div class="mod-enhancement e-full-width">
+	<figure class="image">
+	
+
+	 
+<img src="https://assets.sourcemedia.com/dims4/default/8a94d68/2147483647/resize/680x%3E/quality/90/?url=https%3A%2F%2Fassets.sourcemedia.com%2F86%2F93%2F165b45744981b9057613cfbf480d%2Fveer-gidwaney-maxwellhealth.jpg" alt="">
+
+    
+
+ 
+
+	
+	<figcaption>
+		<h5>Veer Gidwaney
+</h5>
+
+
+	</figcaption>
+	
+</figure>
+</div>
+
+			
+				<p>Technology can remedy many of these issues, but it’s important for employers to invest in the right one solution. Here are a few factors to consider before making the leap:</p><p><b style="mso-bidi-font-weight:normal">1. Service.</b> Technology should augment and automate benefits strategy and expertise, not replace it. <a href="http://www.inc.com/jeremy-quittner/adp-survey-highlights-compliance-and-cost-concerns-around-affordable-care-act.html" data-cms-ai="0">There is</a><a href="http://www.inc.com/jeremy-quittner/adp-survey-highlights-compliance-and-cost-concerns-around-affordable-care-act.html" data-cms-ai="0"> too much at stake to mess up your </a><a href="http://www.inc.com/jeremy-quittner/adp-survey-highlights-compliance-and-cost-concerns-around-affordable-care-act.html" target="_blank" data-cms-ai="0">employee benefits</a>, so unless you have an experienced benefits strategist on staff, rely on the experts. </p><p>Benefits brokers have location- and industry-specific expertise, and many will be willing to cover or subsidize the cost of any technology you need. Should you choose to work with a solution that’s primarily a technology company, but has licensed brokers as employees, make sure you cover all your bases: Make sure their licenses are valid. Ask for client references. Ask what their service model is: Who picks up the phone when your employees have a question you’re unable to answer? What happens when something goes wrong mid-year? A trusted adviser, if chosen well, should be an extension of your HR team and give your management team peace of mind that this very important area is covered.</p><p><b style="mso-bidi-font-weight:normal">2. Automation</b>. Nobody gets into HR because they love insurance – you get into HR because you like working with and helping people, but too often benefits management starts to monopolize HR’s time. Benefits can be a manual, complicated time suck, especially if you’re managing everything with a spreadsheet and a fax machine. Work with your broker to build processes or find tech that automates these manual processes. You shouldn’t have to think about whether an employee submitted a waiver form, or entered their beneficiary information correctly.</p><div class="mod-enhancement e-left-pi sponsored">
+	<div class="feed-item  ">
+	
+	<h4><a href="//www.benefitnews.com/partnerinsights/Limeade/article/3-ways-gamification-can-improve-your-teams-well-being" target="" data-cms-ai="0">	
+		<span>Article</span>
+	
+	3 ways gamification can improve your team’s well-being
+</a></h4>
+	
+
+	
+
+	
+
+	
+
+	
+	<div class="item-body" style="float: none; position: static;">What does a big, fancy word like “gamification” mean anyway? Simply put, it’s the idea that …</div>
+	
+
+	
+
+	
+
+	
+		<div class="sponsored-by pi-sponsor">
+	<span>Partner Insights<br>Sponsor Content From: 
+</span>
+	<a href="http://www.limeade.com" target="_blank" data-cms-ai="0">
+<img src="https://assets.sourcemedia.com/dims4/default/e30f08a/2147483647/resize/200x%3E/quality/90/?url=https%3A%2F%2Fassets.sourcemedia.com%2Fe5%2F7a%2F892ecd444ae1b4e3d5c60afa9e92%2Flimeade.png" alt="Limeade">
+
+    
+
+</a>
+</div>
+	
+
+	
+		<div class="item-meta">
+			<div class="component-footer ">
+	
+	<span class="tag"><a href="/tag/employee-benefits" data-cms-ai="0">Employee benefits</a></span>
+	
+
+	
+
+	<span class="byline">
+		
+
+        <span class="timestamp">February 17</span>
+	</span>
+</div>
+		</div>
+	
+
+</div>
+</div><p><b style="mso-bidi-font-weight:normal">3. Integration</b>. There is no silver bullet when it comes to benefits technology. Different types of employers are naturally focused on different “make it or break it” features, and it’s important you know what those are for your organization. But it’s safe to say that integration is pretty much always at the top of the list. No one wants to enter data into multiple systems in order to keep employee records accurate. The extent or types of integrations necessary for your company really depend on a few factors: How much turnover you have (the higher the turnover, the more important a bidirectional data integration will be), what types of systems you’re already using (i.e., sophisticated HRIS), and the resources you have at your disposal. If you have an entire HR team, integration may be less of a concern. If you’ve got one person who is running all of your HR, integration likely becomes more of a priority.</p><p><b style="mso-bidi-font-weight:normal">4. Usability. </b>This is huge. In 2016, there’s no excuse for a user interface that feels like it’s from the 1990s. Your employees shouldn’t need an avatar to help them figure out where to click. You shouldn’t need a 10-minute video to show you how to onboard a new employee. It should be completely intuitive and feel like the best user experience possible.</p><p><b style="mso-bidi-font-weight:normal">5. Tools for your employees</b>. At the end of the day, you’re in the benefits game for your employees. If they don’t understand how to choose the options that are best for them, or worse, how to use their benefits and navigate the complicated healthcare system when they need it most, your investment in them is meaningless. Any technology you adopt should help your employees understand and use their benefits. They should know what a deductible is and how much theirs is. They should know how to get in touch with experts that can help figure out a hospital bill, or how to use an HSA. That means engaging your employees on their terms – and in a world where <a href="http://www.pewinternet.org/2015/04/01/us-smartphone-use-in-2015/" data-cms-ai="0">n</a><a href="http://www.pewinternet.org/2015/04/01/us-smartphone-use-in-2015/" target="_blank" data-cms-ai="0">early two-thirds of Americans are reliant on their smartphones</a>,<b style="mso-bidi-font-weight:normal"> </b>a strong mobile experience is key to that. Put yourself in your employees’ shoes and work to solve their biggest pain points first, and then look to drive value with the services you offer.</p>
+
+			
+				
+
+
+			
+				<div class="author-module module">
+	<div class="author-bio">
+		
+			<a href="" title="Veer Gidwaney" class="author-image" data-cms-ai="0">
+<img src="https://assets.sourcemedia.com/dims4/default/e412a4e/2147483647/thumbnail/70x70/quality/90/?url=https%3A%2F%2Fassets.sourcemedia.com%2F05%2F8a%2F39db4d7140b7b9e9fc1aba858a0d%2Fveer-gidwaney-chu.jpg" alt="Veer Gidwaney" width="70" height="70">
+
+    
+
+</a>
+		
+		<div class="bio">
+			
+				<h4><a href="" data-cms-ai="0">Veer Gidwaney</a></h4>
+			
+
+            
+
+            
+		</div>
+	</div>
+	
+	<div class="author-more">
+		
+			<h6>More from this Author</h6>
+
+		
+			
+<ul class="list">
+	
+		<li><a href="//www.benefitnews.com/opinion/bring-your-benefits-business-up-to-the-21st-century" data-cms-ai="0">Bring your benefits business up to the 21st century</a></li>
+	
+		<li><a href="//www.benefitnews.com/opinion/4-reasons-why-algorithms-wont-replace-insurance-brokers" data-cms-ai="0">4 reasons why algorithms wont replace insurance brokers</a></li>
+	
+</ul>
+
+		
+	</div>
+	
+</div>
+
+			
+		</div>
+
+	</div>
+</article>
+
+			
+				<div class="comments component bsp-onDomInsert-inserted-16 bsp-commenting-item" data-bsp-commenting="">
+    
+    <h5 class="component-title">Comments</h5>
+    
+
+    <div class="commenting-content">
+
+        
+        <div class="comments-sign-in">
+            <div class="comments-sign-in-text"><div class="component-group">
+	
+		<a href="#" title="Login" data-sm-user-login="" data-sm-user-login-content-url="https://www.benefitnews.com/auth/login" data-cms-ai="0" class="bsp-onDomInsert-inserted-7 sm-user-login-item">Login</a>
+	
+		 or 
+	
+		<a href="#" title="Register" data-sm-user-register="" data-sm-user-register-content-url="https://www.benefitnews.com/auth/register" data-cms-ai="0" class="bsp-onDomInsert-inserted-2 sm-user-register-item">Register</a>
+	
+		 to be the first to comment
+	
+</div>
+</div>
+            <ul class="comments-sign-in-choices">
+                
+            </ul>
+        </div>
+        
+
+        
+
+        
+        <div class="comments-list-wrapper">
+
+            <ul class="comments-list">
+                
+            </ul>
+        </div>
+        
+
+        
+    </div>
+</div>
+			
+		</div>
+
+		<div class="bsp-column-fixed-width sm-right-rail">
+			
+				<div id="gpt-ad-bigbox1">
+    <script type="text/javascript">
+        googletag.cmd.push(function() {
+            googletag.display('gpt-ad-bigbox1');
+        });
+    </script><div id="google_ads_iframe_/16059533/EBNBenefitNews/Opinion_1__container__" style="border: 0pt none;"><iframe id="google_ads_iframe_/16059533/EBNBenefitNews/Opinion_1" name="google_ads_iframe_/16059533/EBNBenefitNews/Opinion_1" width="300" height="250" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" src="javascript:&quot;<html><body style='background:transparent'></body></html>&quot;" style="border: 0px; vertical-align: bottom;"></iframe></div>
+</div>
+
+			
+				<div id="stickyContainer" class=""><div class="module mod-reading-list sticky bsp-onDomInsert-inserted-12 sm-reading-list-item" data-sm-reading-list="">
+	<h3 class="module-heading">Reading List</h3><div class="mod-reading-list-progress-bar-wrapper"><div class="mod-reading-list-progress-bar" style="width: 18.243%;"></div></div>
+	
+
+
+	
+<a class="mod-reading-list-view-all" href="#">View all 5 articles in this collection</a></div><div id="gpt-ad-bigbox2" class="sticky">
+    <script type="text/javascript">
+        googletag.cmd.push(function() {
+            googletag.display('gpt-ad-bigbox2');
+        });
+    </script><div id="google_ads_iframe_/16059533/EBNBenefitNews/Opinion_2__container__" style="border: 0pt none;"><iframe id="google_ads_iframe_/16059533/EBNBenefitNews/Opinion_2" name="google_ads_iframe_/16059533/EBNBenefitNews/Opinion_2" width="300" height="250" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" src="javascript:&quot;<html><body style='background:transparent'></body></html>&quot;" style="border: 0px; vertical-align: bottom;"></iframe></div>
+</div></div>
+
+			
+				
+
+			
+		</div>
+
+	</div>
+</div>
+
+</div>
