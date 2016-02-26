@@ -14,10 +14,7 @@
 	
 		<div class="bsp-page-title-wrapper">
 	<h1 class="bsp-page-title title-small">
-		
-			<span>Views</span>
-		
-		5 considerations when hiring a benefits tech vendor
+		Article 1
 	</h1>
 </div>
 	

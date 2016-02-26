@@ -1,0 +1,280 @@
+<div class="wrapper skin-light-background" data-content-type="article">
+    
+        <script type="text/javascript">
+var dimension1 = "Kathryn Mayer";
+
+var dimension3 = "non-registered-user";
+
+var dimension5 = "FreeWithReg";
+
+var dimension6 = "";
+
+var dimension8 = "12";
+
+var dimension9 = "20160224";
+
+var dimension10 = "Wellness programs, Wellness, Wellness program ROI, Insurance, Benefit strategies, Employee retention";
+
+var dimension14 = "785";
+
+var dimension15 = "Article";
+
+var dimension17 = "Wellness programs, Wellness, Wellness program ROI, Insurance, Benefit strategies, Employee retention";
+
+var dimension20 = "Scrolled";
+</script>
+
+    
+
+	<div class="bsp-container">
+
+	
+
+	<div class="bsp-row sm-flexbox">
+
+		<div class="bsp-column-flex sm-column-flex">
+			
+				<div data-reading-list-leaderboard-ad="" class="sm-advertisement bsp-onDomInsert-inserted-27 sm-google-ad-item" data-sm-google-ad="" data-sm-google-ad-options="{
+        &quot;id&quot;:&quot;gpt-ad-collapsed_header4&quot;,
+        &quot;position&quot;:&quot;collapsed_header4&quot;,
+        &quot;sizes&quot;:&quot;[[728,90],[970,90],[970,250],[970,91]]&quot;,
+        &quot;deferRendering&quot;:false
+        
+    }" id="gpt-ad-collapsed_header4-1456333557641">
+<div id="google_ads_iframe_/16059533/EBNBenefitNews/Opinion_5__container__" style="border: 0pt none;"><iframe id="google_ads_iframe_/16059533/EBNBenefitNews/Opinion_5" name="google_ads_iframe_/16059533/EBNBenefitNews/Opinion_5" width="728" height="90" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" src="javascript:&quot;<html><body style='background:transparent'></body></html>&quot;" style="border: 0px; vertical-align: bottom;"></iframe></div><iframe id="google_ads_iframe_/16059533/EBNBenefitNews/Opinion_5__hidden__" name="google_ads_iframe_/16059533/EBNBenefitNews/Opinion_5__hidden__" width="0" height="0" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" src="javascript:&quot;<html><body style='background:transparent'></body></html>&quot;" style="border: 0px; vertical-align: bottom; visibility: hidden; display: none;"></iframe></div>
+
+			
+				<article class="bsp-container bsp-onDomInsert-inserted-15 sm-article-item" data-sm-article="">
+
+	
+		<header>
+	
+		<div class="bsp-page-title-wrapper">
+	<h1 class="bsp-page-title title-small">
+		
+Article 4
+	</h1>
+</div>
+	
+</header>
+	
+
+	<div class="bsp-row">
+
+		<div class="article-first">
+			
+				
+    
+		<div class="bsp-tags">
+    <div class="bsp-tag-list-title">By</div>
+    <ul class="bsp-tag-list">
+        
+            <li><a class="bsp-tag" href="//www.benefitnews.com/author/kathryn-mayer" data-cms-ai="0">Kathryn Mayer</a></li>
+        
+    </ul>
+</div>
+
+	
+		<div class="bsp-tags">
+    <div class="bsp-tag-list-title">Published</div>
+    <ul class="bsp-tag-list">
+        
+            <li>February 24 2016, 12:34am EST</li>
+        
+    </ul>
+</div>
+
+	
+		<div class="bsp-tags">
+    <div class="bsp-tag-list-title">More in</div>
+    <ul class="bsp-tag-list">
+        
+            <li><a class="bsp-tag" href="/tag/wellness-programs" data-cms-ai="0">Wellness programs</a></li>
+        
+            <li><a class="bsp-tag" href="/tag/wellness" data-cms-ai="0">Wellness</a></li>
+        
+            <li><a class="bsp-tag" href="/tag/wellness-program-ROI" data-cms-ai="0">Wellness program ROI</a></li>
+        
+            <li><a class="bsp-tag" href="/tag/insurance" data-cms-ai="0">Insurance</a></li>
+        
+            <li><a class="bsp-tag" href="/tag/benefits-strategies" data-cms-ai="0">Benefit strategies</a></li>
+        
+            <li><a class="bsp-tag" href="/tag/employee-retention" data-cms-ai="0">Employee retention</a></li>
+        
+    </ul>
+</div>
+
+	
+
+			
+		</div>
+
+		<div class="article-body">
+			
+				<div class="action-bar action-bar-size--large">
+    
+        <a class="action action-size--large bsp-onDomInsert-inserted-32 sm-action-print-item" data-sm-action-print="" data-cms-ai="0">
+    <i class="icon icon-print"></i>
+    <span class="label">Print</span>
+    
+</a>
+
+    
+        <a href="mailto:?subject=Measuring%20VOI%20emerging%20as%20workplace%20wellness%20trend&amp;body=The%20success%20of%20a%20well-being%20program%20may%20be%20more%20about%20measuring%20value-on-investment%20rather%20than%20return-on-investment%2C%20according%20to%20a%20new%20report%20from%20the%20International%20Foundation%20of%20Employee%20Benefit%20Plans.%0A%0Ahttp://www.benefitnews.com/news/measuring-voi-emerging-as-workplace-wellness-trend" class="action action-size--large bsp-onDomInsert-inserted-9 sm-action-email-item" data-sm-action-email="" data-cms-ai="0">
+    <i class="icon icon-email"></i>
+    <span class="label">Email</span>
+    
+</a>
+
+    
+        <a href="http://www.sourcemediareprints.com/" target="_blank" class="action action-size--large bsp-onDomInsert-inserted-33 sm-action-reprint-item" data-sm-action-reprint="" data-cms-ai="0">
+    <i class="icon icon-reprint"></i>
+    <span class="label">Reprints</span>
+    
+</a>
+
+    
+        <a class="action action-size--large bsp-onDomInsert-inserted-8 sm-action-share-item drop-theme-sharebar drop-target" data-sm-action-share="" data-cms-ai="0">
+    <i class="icon icon-share"></i>
+    <span class="label">Share</span>
+    
+        
+
+    
+</a>
+
+    
+</div>
+
+			
+				<p>Employers are beginning to look beyond just healthcare cost savings to measure the success of their workplace wellness programs. </p><p>More employers, according to a new report from the International Foundation of Employee Benefit Plans, are using measures that calculate value-on-investment to measure wellness program success. </p><p>Half of employers are using at least one VOI measure to track success, including employee engagement (30%), turnover (22%), absenteeism (18%), productivity (17%) and recruitment/referral rates (13%). Comparatively, just about a quarter (28%) of organizations are measuring wellness program success with traditional ROI.</p>
+
+			
+				
+<div class="mod-enhancement e-full-width">
+	<figure class="image">
+	
+
+	 
+<img src="https://assets.sourcemedia.com/dims4/default/69eaa24/2147483647/resize/680x%3E/quality/90/?url=https%3A%2F%2Fassets.sourcemedia.com%2F5a%2Fa6%2Fc631cafa4e9db7443528e01c913c%2Febn-wellnessvoi-2-24-16.png" alt="">
+
+    
+
+ 
+
+	
+	<figcaption>
+		<h5>
+</h5>
+
+
+	</figcaption>
+	
+</figure>
+</div>
+
+			
+				<p>“Forward-thinking companies are looking more broadly at the overall, total impact of wellness on their workforce and company,” says Julie Stich, IFEBP research director. “They’re no longer looking only at health costs, but how a healthier workforce affects productivity, engagement and overall financial sustainability.”</p><p>“While controlling healthcare costs has traditionally been the primary reason for offering wellness programs — and still is for 48% of our respondents — a greater percentage of companies — 52% — tell us their No. 1 reason for offering wellness is to invest in and increase employee health and engagement,” she continues.</p><p>The IFEBP report compares organizations achieving positive wellness VOI with the average organization offering wellness initiatives.</p><p>Organizations with positive wellness ROI provide more screening, treatment, fitness and nutrition initiatives than other organizations, but not necessarily more of other initiatives related to total well-being (such as mental, community, social and occupational health). On the other hand, organizations with “great workplace cultures” tend to provide more total well-being initiatives, but not more screenings and treatment initiatives than average, the report finds. </p><p>Organizations with positive wellness VOI also offer a wider range of wellness offerings than other organizations, including fitness and nutrition initiatives, screening and treatment programs, social and community events, stress and mental health offerings, and purpose and growth initiatives.</p><p>Focusing on the holistic side of wellness — and focusing on nontraditional wellness offerings such as stress management programs, staff outings, charity drives and flexible work hours — is vital for both employers and employees, Stich says.</p><p>“Employees are the lifeblood of a company,” she says. “When they’re at their peak — physically, mentally, socially, emotionally, spiritually — their own quality of life improves, as does the life of their company.”</p><p>Positive VOI wellness programs also are more likely to use a wide variety of wellness communication channels, including seminars, speakers, testimonials, books, brochures, health fairs and social media.</p><p>The report comes as <a href="http://www.benefitnews.com/news/wellness-roi-comes-under-fire" target="_blank" data-cms-ai="0">wellness ROI continues to take a hit</a> in some circles. Some critics argue that measuring ROI is too difficult, while others question the use of self-reported data. Some industry reports, too, have criticized wellness ROI in general, arguing that many worksite wellness programs barely break even.</p>
+
+			
+				
+<div class="mod-enhancement e-full-width">
+	<blockquote class="bsp-component sm-blockquote">
+	<span class="eyebrow">Quote</span>
+	<div class="content">
+	“Employees are the lifeblood of a company. When they’re at their peak — physically, mentally, socially, emotionally, spiritually — their own quality of life improves, as does the life of their company.”
+	</div>
+
+
+	
+	
+</blockquote>
+</div>
+
+			
+				<p>The IFEBP report isn’t the first to find that ROI isn’t the most important wellness metric. A report last fall from Willis (now Willis Towers Watson) also found an increasing focus on wellness value-on-investment.</p><p>That survey of about 700 employers found that two-thirds of employers said they rely primarily on value-of-investment measurements — such as health risk reduction, worksite productivity, employee morale, absenteeism and workplace safety — to gauge the relative success of their wellness efforts.</p><p>But Al Lewis, co-author of the book <a href="http://www.amazon.ca/Surviving-Workplace-Wellness-Dignity-Finances-ebook/dp/B00HZR2EBE" target="_blank" data-cms-ai="0">Surviving Workplace Wellness</a>, called VOI “even sillier than pretending there is an ROI,” and said it shows even less return than ROI because intangibles associated with this approach – such as how wellness programs affect employee morale and productivity – cannot be quantified.</p><p><b style="mso-bidi-font-weight:
+normal">Not one-size-fits-all</b></p><p>The IFEBP report aims to offer hints for successful workplace wellness programs.</p><p>Incentives continue to be popular for increasing participation in wellness initiatives, and the report finds that when it comes to increasing participation, incentives appear to be working. </p><p>Employee participation is especially increased by offering incentives for health screenings (57% vs. 40%), weight-loss programs (37% vs. 17%) and health fairs (54% vs. 37%). Other factors that successfully increase participation are targeting programs based on employee health risks, surveying workers for feedback on initiatives, including spouses and children in offerings, and having company leaders communicate wellness program support.</p><p>“We’ve been hearing — and I’ve been one who is saying — that one size doesn’t fit all when it comes to wellness,” Stich says. “Our report supports that generalization, and also shows which strategies and initiatives successfully lead to certain outcomes like increased participation, positive VOI and a strong workplace culture.”</p>
+
+			
+		</div>
+
+	</div>
+</article>
+
+			
+				<div class="comments component bsp-onDomInsert-inserted-16 bsp-commenting-item" data-bsp-commenting="">
+    
+    <h5 class="component-title">Comments<span class="comments-count">(2)</span></h5>
+    
+
+    <div class="commenting-content">
+
+        
+        <div class="comments-sign-in">
+            <div class="comments-sign-in-text"><div class="component-group">
+	
+		<a href="#" title="Login" data-sm-user-login="" data-sm-user-login-content-url="https://www.benefitnews.com/auth/login" data-cms-ai="0" class="bsp-onDomInsert-inserted-7 sm-user-login-item">Login</a>
+	
+		 or 
+	
+		<a href="#" title="Register" data-sm-user-register="" data-sm-user-register-content-url="https://www.benefitnews.com/auth/register" data-cms-ai="0" class="bsp-onDomInsert-inserted-2 sm-user-register-item">Register</a>
+	
+		 to join the conversation
+	
+</div>
+</div>
+            <ul class="comments-sign-in-choices">
+                
+            </ul>
+        </div>
+        
+
+        
+
+        
+        <div class="comments-list-wrapper">
+
+            <ul class="comments-list">
+                
+    <li class="comment" data-cid="00000153-1426-d44a-a15f-d4662be90000">
+    
+    <div class="comment-body">
+        <div class="comment-authored">
+            <div class="comment-author">Posted By <strong>Jon R.</strong>
+</div>
+            <div class="comment-date">Wednesday, February 24 2016 at 11:39 AM</div>
+        </div>
+        <div class="comment-text">This is off the mark in many areas - These programs don't produce a positive ROI, so now we move to VOI? Even the HERO report says poor morale is a side-effect of wellness programs.  So where are the savings going to come from - just magically appear? Same screenings, same weight loss programs...And with the continued focus on incentives - which the literature is very clear about - it is much more likely that these programs will hurt rather than help engagement - Dr. Jon</div>
+        <div class="comment-action">
+            
+            
+            
+        </div>
+        <div class="comment-arrow"></div>
+    </div>
+
+    
+</li>
+
+            </ul>
+        </div>
+        
+
+        
+            <div class="comments-show-all">
+                <a href="//www.benefitnews.com/news/measuring-voi-emerging-as-workplace-wellness-trend?_viewType=commentsLoadMore&amp;_ts=1456333551506" data-cms-ai="0">Show All Comments</a>
+            </div>
+        
+    </div>
+</div>
+			
+		</div>
+
+		<div class="bsp-column-fixed-width sm-right-rail">
+			
+		</div>
+
+	</div>
+</div>
+
+</div>

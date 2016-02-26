@@ -1,0 +1,296 @@
+<div class="wrapper skin-light-background" data-content-type="opinion-article">
+    
+        <script type="text/javascript">
+var dimension1 = "Paul E. Terry, PhD";
+
+var dimension3 = "non-registered-user";
+
+var dimension5 = "FreeWithReg";
+
+var dimension6 = "";
+
+var dimension8 = "12";
+
+var dimension9 = "20160223";
+
+var dimension10 = "Wellness programs, Wellness, Workplace culture, Employee communications";
+
+var dimension14 = "741";
+
+var dimension15 = "OpinionArticle";
+
+var dimension17 = "Wellness programs, Wellness, Workplace culture, Employee communications";
+
+var dimension20 = "Scrolled";
+</script>
+
+    
+
+	<div class="bsp-container">
+
+	
+
+	<div class="bsp-row sm-flexbox">
+
+		<div class="bsp-column-flex sm-column-flex">
+			
+				<div data-reading-list-leaderboard-ad="" class="sm-advertisement bsp-onDomInsert-inserted-27 sm-google-ad-item" data-sm-google-ad="" data-sm-google-ad-options="{
+        &quot;id&quot;:&quot;gpt-ad-collapsed_header5&quot;,
+        &quot;position&quot;:&quot;collapsed_header5&quot;,
+        &quot;sizes&quot;:&quot;[[728,90],[970,90],[970,250],[970,91]]&quot;,
+        &quot;deferRendering&quot;:false
+        
+    }" id="gpt-ad-collapsed_header5-1456333622693">
+<div id="google_ads_iframe_/16059533/EBNBenefitNews/Opinion_6__container__" style="border: 0pt none;"><iframe id="google_ads_iframe_/16059533/EBNBenefitNews/Opinion_6" name="google_ads_iframe_/16059533/EBNBenefitNews/Opinion_6" width="728" height="90" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" src="javascript:&quot;<html><body style='background:transparent'></body></html>&quot;" style="border: 0px; vertical-align: bottom;"></iframe></div><iframe id="google_ads_iframe_/16059533/EBNBenefitNews/Opinion_6__hidden__" name="google_ads_iframe_/16059533/EBNBenefitNews/Opinion_6__hidden__" width="0" height="0" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" src="javascript:&quot;<html><body style='background:transparent'></body></html>&quot;" style="border: 0px; vertical-align: bottom; visibility: hidden; display: none;"></iframe></div>
+
+			
+				<article class="bsp-container bsp-onDomInsert-inserted-15 sm-article-item" data-sm-article="">
+
+	
+		<header>
+	
+		<div class="bsp-page-title-wrapper">
+	<h1 class="bsp-page-title title-small">
+				Article 5
+	</h1>
+</div>
+	
+</header>
+	
+
+	<div class="bsp-row">
+
+		<div class="article-first">
+			
+				
+    
+		<div class="bsp-tags">
+    <div class="bsp-tag-list-title">By</div>
+    <ul class="bsp-tag-list">
+        
+            <li><a class="bsp-tag" href="//www.benefitnews.com/author/paul-e-terry-phd" data-cms-ai="0">Paul E. Terry, PhD</a></li>
+        
+    </ul>
+</div>
+
+	
+		<div class="bsp-tags">
+    <div class="bsp-tag-list-title">Published</div>
+    <ul class="bsp-tag-list">
+        
+            <li>February 23 2016, 12:19pm EST</li>
+        
+    </ul>
+</div>
+
+	
+		<div class="bsp-tags">
+    <div class="bsp-tag-list-title">More in</div>
+    <ul class="bsp-tag-list">
+        
+            <li><a class="bsp-tag" href="/tag/wellness-programs" data-cms-ai="0">Wellness programs</a></li>
+        
+            <li><a class="bsp-tag" href="/tag/wellness" data-cms-ai="0">Wellness</a></li>
+        
+            <li><a class="bsp-tag" href="/tag/workplace-culture" data-cms-ai="0">Workplace culture</a></li>
+        
+            <li><a class="bsp-tag" href="/tag/employee-communications" data-cms-ai="0">Employee communications</a></li>
+        
+    </ul>
+</div>
+
+	
+
+			
+		</div>
+
+		<div class="article-body">
+			
+				<div class="action-bar action-bar-size--large">
+    
+        <a class="action action-size--large bsp-onDomInsert-inserted-32 sm-action-print-item" data-sm-action-print="" data-cms-ai="0">
+    <i class="icon icon-print"></i>
+    <span class="label">Print</span>
+    
+</a>
+
+    
+        <a href="mailto:?subject=New%20wellness%20terminology%20reflects%20change%20in%20thinking&amp;body=The%20national%20shift%20from%20wellness%20to%20%E2%80%9Cwell-being%E2%80%9D%20has%20been%20rapid.%20What%20does%20it%20mean%20for%20employers%20and%20wellness%20practitioners%3F%20%0A%0Ahttp://www.benefitnews.com/opinion/new-wellness-terminology-reflects-change-in-thinking" class="action action-size--large bsp-onDomInsert-inserted-9 sm-action-email-item" data-sm-action-email="" data-cms-ai="0">
+    <i class="icon icon-email"></i>
+    <span class="label">Email</span>
+    
+</a>
+
+    
+        <a href="http://www.sourcemediareprints.com/" target="_blank" class="action action-size--large bsp-onDomInsert-inserted-33 sm-action-reprint-item" data-sm-action-reprint="" data-cms-ai="0">
+    <i class="icon icon-reprint"></i>
+    <span class="label">Reprints</span>
+    
+</a>
+
+    
+        <a class="action action-size--large bsp-onDomInsert-inserted-8 sm-action-share-item drop-theme-sharebar drop-target" data-sm-action-share="" data-cms-ai="0">
+    <i class="icon icon-share"></i>
+    <span class="label">Share</span>
+    
+        
+
+    
+</a>
+
+    
+</div>
+
+			
+				<p>If a literary work is to pass the test of time, it must touch on one of those relentless truths that makes us think, nod, and think again. Shakespeare wrote: “What’s in a name? That which we call a rose, by any other word would smell as sweet.” Recall that this line captured the high stakes conundrum of Capulet and Montague identity politics. Juliet was desperate to rise above history’s trappings and Romeo responds, “Call me but love, and I'll be new baptized; Henceforth I never will be Romeo.” And so it seems the health promotion profession wants to nevermore be about wellness. </p><p>The national shift from wellness to “well-being” has been rapid yet does the newly accepted usage of the well-being term mark a subtle shift or a fundamental change in our professional orientation? That the health promotion profession hopes to divest of an inordinate focus on individual health habits and exert a broader influence on families, communities and life quality, is a worthy aim. Whether “well-being” enables this more than “health promotion” or “wellness” depends on what’s in these names.</p>
+
+			
+				
+<div class="mod-enhancement e-full-width">
+	<figure class="image">
+	
+
+	 
+<img src="https://assets.sourcemedia.com/dims4/default/04865a6/2147483647/resize/680x%3E/quality/90/?url=https%3A%2F%2Fassets.sourcemedia.com%2F73%2Fd7%2Fb72a6638400cb0298cee0890c477%2Febn-022316-p2-afternoon2.jpg" alt="[Image credit: Bloomberg]">
+
+    
+
+ 
+
+	
+	<figcaption>
+		<h5>
+</h5>
+ [Image credit: Bloomberg]
+ 
+
+	</figcaption>
+	
+</figure>
+</div>
+
+			
+				<p>In a recent <a href="http://healthpromotionjournal.com/index.php?com_route=view_video&amp;vid=137&amp;close=true" target="_blank" data-cms-ai="0">webinar</a> featuring Stephanie Pronk, the practice leader for Aon Hewitt’s national health transformation team and Don Ardell, who many credit as the “forefather of wellness,” we addressed this identity evolution.</p><p>Ardell promotes “REAL wellness” an acronym for reason, exuberance, athleticism and liberty. To me, “REAL” is aspirational and a way of being. Similarly, if you study uses of the well-being term to date you’ll find a litany of associations about how health is influenced by financial, psychological, physical and many other dimensions. That’s not the case for definitions of health education or health promotion. These terms have an action orientation. To wit, the scholarly <a href="http://www.oxfordbibliographies.com/view/document/obo-9780199756797/obo-9780199756797-0044.xml" target="_blank" data-cms-ai="0">consensus definition</a> is, “any combination of learning experiences designed to facilitate voluntary actions conducive to health.”</p><p>As Pronk shared in the webinar, Aon Hewitt’s definition of well-being is “a state of balance that consists of having the appropriate resources, opportunities and commitment needed to achieve optimal health and performance for the individual and organization.” I like it. It’s a definition that captures the duality of individuals and their environments and includes a call to action. </p><p><b style="mso-bidi-font-weight:normal">“To be, or not to be?”</b></p><p>Reflecting on the national imperative of reducing the “weight of the workplace,” Pronk described Aon’s “all-encompassing” approach to obesity management with its tacit acknowledgement that a focus on individual behaviors simply hasn’t worked well for most. Time will tell whether the well-being term will denote a similarly broad action orientation. I polled our webinar audience on this issue and found the variation downright fascinating. When asked, “Which best describes your organization’s readiness for an ‘all-encompassing approach?” attendees responded:</p><p>o We have the will and know the way. We’re on it! (28%)</p><p>o We know the way but lack the will (political, thought leadership) (30%)</p><p>o I don’t know (13%)</p><p>o We have the will, but I doubt we know the way (25%)</p><p>o No how, no way! (4%)</p><p>That there are as many who feel they have the know-how but lack organizational support as there are that lack know-how but have organizational support bespeaks a time where identity politics are a palpable part of our profession. </p><p>Will well-being become a way of being like Ardell’s “REAL” or a way of doing like Pronk’s “all-encompassing approach?” I’ve reviewed many well-being definitions and have yet to find one that is derived from consensus. And since most are association oriented rather than action oriented, I was struck by Rachel Dodge’s article entitled, “The Challenge of Defining Well-being.” Dodge and colleagues believe the way forward is to define how individuals achieve well-being, rather than simply describe what it is.<sup> </sup> Rather than the common approach to making well-being about factors and correlations, Dodge writes that “in essence, stable wellbeing is when individuals have the psychological, social and physical resources they need to meet a particular psychological, social and/or physical challenge.” </p><p>At HERO, the Health Enhancement Research Organization, we have had a long-standing vision about improving best practices in “employee health management.” It is still a worthy aim, but I’m all the more charged up about our new vision: “All workplaces will positively influence the health and well-being of employees, families and their communities.” I’m all for being. But if our profession is to surmount our high-stakes conundrum, we must also be about doing.</p>
+
+			
+				<div class="author-module module">
+	<div class="author-bio">
+		
+			<a href="//www.benefitnews.com/author/paul-e-terry-phd" title="Paul E. Terry, PhD" class="author-image" data-cms-ai="0">
+<img src="https://assets.sourcemedia.com/dims4/default/defc3af/2147483647/thumbnail/70x70/quality/90/?url=https%3A%2F%2Fassets.sourcemedia.com%2Fbd%2F4c%2Fc459177b4144a2fd7e2c8df05d39%2Fpaulterryhero.jpg" alt="Paul E. Terry, PhD" width="70" height="70">
+
+    
+
+</a>
+		
+		<div class="bio">
+			
+				<h4><a href="//www.benefitnews.com/author/paul-e-terry-phd" data-cms-ai="0">Paul E. Terry, PhD</a></h4>
+			
+
+            
+                <div>
+                    Paul E. Terry, Ph.D., is president and CEO of HERO, The Health Enhancement Research Organization.
+
+                </div>
+            
+
+            
+                <div class="author-social">
+                    
+                        
+<ul class="list social-links">
+	
+		<li><a class="icon icon-email" href="mailto://paul.terry@hero-health.org" target="_self" data-cms-ai="0"></a></li>
+	
+		<li><a class="icon icon-twitter" href="https://twitter.com/pauleterry" target="_blank" data-cms-ai="0"></a></li>
+	
+</ul>
+
+                    
+                </div>
+            
+		</div>
+	</div>
+	
+	<div class="author-more">
+		
+			<h6>More Articles</h6>
+
+		
+			
+<ul class="list">
+	
+		<li><a href="//www.benefitnews.com/cdhps-and-employee-health-incentives-a-formula-for-success-ebn" data-cms-ai="0">CDHPs and employee health incentives: A formula for success
+</a></li>
+	
+		<li><a href="//www.benefitnews.com/opinion/mindfulness-training-poised-to-take-off-as-new-employee-benefit" data-cms-ai="0">Mindfulness training poised to take off as new employee benefit</a></li>
+	
+		<li><a href="//www.benefitnews.com/opinion/8-reasons-to-encourage-hsa-use" data-cms-ai="0">8 reasons to encourage HSA use</a></li>
+	
+</ul>
+
+		
+	</div>
+	
+</div>
+
+			
+		</div>
+
+	</div>
+</article>
+
+			
+				<div class="comments component bsp-onDomInsert-inserted-16 bsp-commenting-item" data-bsp-commenting="">
+    
+    <h5 class="component-title">Comments</h5>
+    
+
+    <div class="commenting-content">
+
+        
+        <div class="comments-sign-in">
+            <div class="comments-sign-in-text"><div class="component-group">
+	
+		<a href="#" title="Login" data-sm-user-login="" data-sm-user-login-content-url="https://www.benefitnews.com/auth/login" data-cms-ai="0" class="bsp-onDomInsert-inserted-7 sm-user-login-item">Login</a>
+	
+		 or 
+	
+		<a href="#" title="Register" data-sm-user-register="" data-sm-user-register-content-url="https://www.benefitnews.com/auth/register" data-cms-ai="0" class="bsp-onDomInsert-inserted-2 sm-user-register-item">Register</a>
+	
+		 to be the first to comment
+	
+</div>
+</div>
+            <ul class="comments-sign-in-choices">
+                
+            </ul>
+        </div>
+        
+
+        
+
+        
+        <div class="comments-list-wrapper">
+
+            <ul class="comments-list">
+                
+            </ul>
+        </div>
+        
+
+        
+    </div>
+</div>
+			
+		</div>
+
+		<div class="bsp-column-fixed-width sm-right-rail">
+			
+		</div>
+
+	</div>
+</div>
+
+</div>

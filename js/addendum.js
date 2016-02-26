@@ -3,9 +3,9 @@
 
 	(function(){
 
-		$('.reading-list-link').click(function(event){
+		//$('.reading-list-link').click(function(event){
 			//console.log($(this).attr('data-sm-reading-list-item-url'));
-			event.preventDefault();
+			//event.preventDefault();
 			/*
 			var loadTheseArticles = $('.reading-list-link').index(this);
 			if(!$('.js-article-on-deck').length && articlesLoaded < loadTheseArticles){  //articles not loaded
@@ -22,7 +22,7 @@
 					scrollTop:$('.skin-light-background').last().offset().top-$('.site-header-wrapper').height
 				},2000);
 			}*/
-		});
+		//});
 
 		
 		//Set up Global simple vars
@@ -77,17 +77,22 @@
 				//**********************************//
 
 
-				if(scrollDirection===1 && articles[tracker]){
-					if(Math.abs(parseInt(articles[tracker].style.marginTop))>=articles[tracker].clientHeight-window.innerHeight){
+				if(scrollDirection===1 && articles[tracker] && keyLinks[tracker+1]){
+					if(Math.abs(parseInt(articles[tracker].style.marginTop))>=articles[tracker].clientHeight-window.innerHeight /* && keyLinks[tracker+1].getAttribute('data-loaded')==="false"*/){
 						if(articles.length < keyLinks.length){
-							var waitUp = debounce(getArticle(keyLinks[tracker].getAttribute('data-sm-reading-list-item-url')),250);
-							articles[tracker].className += " js-article-blur"; //Blur article
+							var waitUp = debounce(getArticle(keyLinks[tracker+1].getAttribute('data-sm-reading-list-item-url')),250);
+							articles[tracker].classList.add("js-article-blur"); //Blur article
+							keyLinks[tracker].parentNode.classList.remove('current');
+							keyLinks[tracker+1].setAttribute('data-loaded','true');
 						}
-						else{
-							
+						else{ //We've already loaded this article.
 							if(tracker+1<articles.length){
-								articles[tracker].className += " js-article-blur"; //Blur article
+								console.log('regular downs');
+								articles[tracker].classList.add("js-article-blur"); //Blur article
+								keyLinks[tracker].parentNode.classList.remove('current');
 								tracker++;
+								keyLinks[tracker].parentNode.classList.add('current');
+
 							}
 						}
 						
@@ -101,8 +106,11 @@
 
 				if(scrollDirection===0){
 					if(parseInt(articles[tracker].style.marginTop)>=window.innerHeight){
+						keyLinks[tracker].parentNode.classList.remove('current');
 						tracker--;
 						articles[tracker].classList.remove('js-article-blur');
+						keyLinks[tracker].parentNode.classList.add('current');
+
 					}
 				}//END SCROLL UP
 			//reset the ticking
@@ -111,10 +119,23 @@
 
 		window.addEventListener('scroll', goScroll, false);
 
+		$('.reading-list-link').click(function(event){
+			event.preventDefault();
+			if($(this).parent('li').index()+1 > articles.length && $(this).attr('data-loaded')==="false"){
+				$(this).parent('li').prev().removeClass('current');
+				debounce(getArticle($(this).attr('data-sm-reading-list-item-url')),250);
+				//Scroll the articles around
+			}
+			else{
+				$(this).parent('li').siblings().removeClass('current');
+				$(this).parent('li').addClass('current');
+				//Scroll to this element
+			}
+		});
 
 
 		function getArticle(key){
-			ourLink=key; //Dummy page
+			var ourLink=key; //Dummy page
 			get(ourLink).then(function(response){
 				deployToPage(response);
 			},function(error){
@@ -154,6 +175,8 @@
 			articles[tracker+1].style.marginTop = window.innerHeight + "px";
 			footer.style.marginTop = getOurHeights();
 			tracker++;
+			keyLinks[tracker].parentNode.classList.add('current');
+
 		}
 
 
@@ -177,7 +200,7 @@
 
 		function updateOurMargin(tracker){
 			var marginAmount = 0;
-			for(i=0;i<tracker;i++){
+			for(var i=0;i<tracker;i++){
 				marginAmount = parseInt(articles[i].clientHeight) + marginAmount;
 			}
 			return marginAmount-lastScrollY+"px";
