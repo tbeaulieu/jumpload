@@ -1,28 +1,12 @@
-	//New Loading functions 
-	//Super hacky smacky jQuery 
+//New Loading functions
+//By Tristan Beaulieu
+//To do:
+//Scroll positions
+//Eliminate jQuery Calls
+//Modularize
+
 
 	(function(){
-
-		//$('.reading-list-link').click(function(event){
-			//console.log($(this).attr('data-sm-reading-list-item-url'));
-			//event.preventDefault();
-			/*
-			var loadTheseArticles = $('.reading-list-link').index(this);
-			if(!$('.js-article-on-deck').length && articlesLoaded < loadTheseArticles){  //articles not loaded
-				$('article, .comments').addClass('js-article-blur');
-				var articlesReplied = []; //for each of our articles
-
-					for(i=articlesLoaded+1; i<=loadTheseArticles; i++){
-						getArticles(i);
-					}
-			}//end if
-			else{
-
-				$('html,body').animate({
-					scrollTop:$('.skin-light-background').last().offset().top-$('.site-header-wrapper').height
-				},2000);
-			}*/
-		//});
 
 		
 		//Set up Global simple vars
@@ -79,8 +63,8 @@
 
 				if(scrollDirection===1 && articles[tracker] && keyLinks[tracker+1]){
 					if(Math.abs(parseInt(articles[tracker].style.marginTop))>=articles[tracker].clientHeight-window.innerHeight /* && keyLinks[tracker+1].getAttribute('data-loaded')==="false"*/){
-						if(articles.length < keyLinks.length){
-							var waitUp = debounce(getArticle(keyLinks[tracker+1].getAttribute('data-sm-reading-list-item-url')),250);
+						if(keyLinks[tracker+1].getAttribute('data-loaded')==="false"){
+							var waitUp = debounce(getArticle(keyLinks[tracker+1].getAttribute('data-sm-reading-list-item-url'), tracker+1, 'scroll'),250);
 							articles[tracker].classList.add("js-article-blur"); //Blur article
 							keyLinks[tracker].parentNode.classList.remove('current');
 							keyLinks[tracker+1].setAttribute('data-loaded','true');
@@ -110,7 +94,6 @@
 						tracker--;
 						articles[tracker].classList.remove('js-article-blur');
 						keyLinks[tracker].parentNode.classList.add('current');
-
 					}
 				}//END SCROLL UP
 			//reset the ticking
@@ -119,25 +102,33 @@
 
 		window.addEventListener('scroll', goScroll, false);
 
+		//Click Event
+
 		$('.reading-list-link').click(function(event){
 			event.preventDefault();
-			if($(this).parent('li').index()+1 > articles.length && $(this).attr('data-loaded')==="false"){
-				$(this).parent('li').prev().removeClass('current');
-				debounce(getArticle($(this).attr('data-sm-reading-list-item-url')),250);
+			console.log($(this).parent('li').index()+1);
+			if($(this).attr('data-loaded')==="false"){
+				getArticle($(this).attr('data-sm-reading-list-item-url'), $(this).parent('li').index(), "click");
 				//Scroll the articles around
 			}
 			else{
 				$(this).parent('li').siblings().removeClass('current');
 				$(this).parent('li').addClass('current');
 				//Scroll to this element
+				articles[tracker].classList.add('js-article-blur');
+				articleAnimate(tracker,"bottom");
+				tracker=$(this).parent('li').index();
+				articles[tracker].classList.remove('js-article-blur');
+				articleAnimate(tracker,"top");
+
 			}
+			$('.scroll-numbers').html("offset:"+window.pageYOffset+"<br>article length "+articles.length+"<br>"+"tracking: "+tracker);
 		});
 
 
-		function getArticle(key){
-			var ourLink=key; //Dummy page
+		function getArticle(ourLink, index, method){
 			get(ourLink).then(function(response){
-				deployToPage(response);
+				deployToPage(response, index, method);
 			},function(error){
 				console.log('failhorns ', error);
 			});		
@@ -167,18 +158,49 @@
 
 
 
-		function deployToPage(ajaxedInArticle){
-			var newContent = "<div class='js-articles'>" + ajaxedInArticle + "</div>";
+		function deployToPage(ajaxedInArticle, index, method){
+			var newContent = "<div class='js-articles' data-article='"+index+"'>"+ ajaxedInArticle + "</div>";
 			content = document.createTextNode(newContent);
 			document.getElementsByClassName('js-articles')[tracker].insertAdjacentHTML('afterend', newContent);	
 			articles = document.getElementsByClassName('js-articles');//Refresh our articles object
 			articles[tracker+1].style.marginTop = window.innerHeight + "px";
 			footer.style.marginTop = getOurHeights();
-			tracker++;
-			keyLinks[tracker].parentNode.classList.add('current');
-
+			
+			if(method==="scroll"){
+				tracker++;
+				keyLinks[tracker].parentNode.classList.add('current');
+			}
+			else{
+				keyLinks[tracker].parentNode.classList.add('current');
+			}
 		}
 
+		function articleAnimate(tracker, direction){
+			var fromPos,
+				toPos;
+			var ourTween = new Tweenable();
+
+			if(direction === "bottom"){
+				fromPos = parseInt(articles[tracker].style.marginTop);
+				toPos = -articles[tracker].clientHeight+window.innerHeight;
+			}
+			if(direction === "top"){
+				fromPos = parseInt(articles[tracker].style.marginTop);
+				toPos = 0;
+			}
+
+			console.log(direction,fromPos,toPos,articles[tracker].style.marginTop);
+			ourTween.tween({
+				from:{ x: fromPos },
+				to: { x: toPos },
+				duratation: 4000,
+				easing: 'easeOutQuart',
+				step: function(state){
+					articles[tracker].style.marginTop = state.x + "px";
+					//console.log(state.x);
+				}
+			});
+		}
 
 		function getOurHeights(){
 			var height=0;

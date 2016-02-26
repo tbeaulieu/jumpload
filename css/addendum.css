@@ -29,6 +29,7 @@
 	filter:blur(2px);
 	transition:.8s filter ease-in;
 	-webkit-transition:.3s -webkit-filter ease-in;
+	z-index: 400;
 }
 
 .js-article-blur::after{
